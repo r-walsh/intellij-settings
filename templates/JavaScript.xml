@@ -1,0 +1,9 @@
+<templateSet group="JavaScript">
+  <template name="fn" value="function $FUNCTION_NAME$( $ARGUMENTS$ ) {&#10;    $END$&#10;}" description="Create a function definition" toReformat="false" toShortenFQNames="true">
+    <variable name="FUNCTION_NAME" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="ARGUMENTS" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JS_STATEMENT" value="true" />
+    </context>
+  </template>
+</templateSet>
