@@ -2315,6 +2315,12 @@
         <mark key="^" line="16" column="62" />
         <mark key="." line="16" column="0" />
       </file>
+      <file name="$USER_HOME$/projects/retro/src/Main.elm" timestamp="1512081236306">
+        <mark key="[" line="38" column="8" />
+        <mark key="]" line="39" column="0" />
+        <mark key="." line="39" column="0" />
+        <mark key="^" line="39" column="0" />
+      </file>
       <file name="$USER_HOME$/projects/align-web/src/components/dashboard/dashboard-content-container.tsx" timestamp="1502375242528">
         <mark key="[" line="23" column="7" />
         <mark key="]" line="32" column="59" />
@@ -3471,11 +3477,11 @@
       <jump line="310" column="19" filename="$USER_HOME$/projects/align-web/src/components/profile/profile.tsx" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Y29uc3QgZm9vID0gbG9jYXRpb25iYXI7CmNvbnNvbGUubG9nKCd3YXJuIG1lIGxpbnQnKTsKCg==</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">IA==</text>
       </register>
       <register name="-" type="4">
-        <text>eslint</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxQcm9wVHlwZXNcPg==</text>
