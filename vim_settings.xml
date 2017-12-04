@@ -568,6 +568,11 @@
         <mark key="]" line="82" column="0" />
         <mark key="." line="82" column="0" />
       </file>
+      <file name="$USER_HOME$/projects/align-web/test/components/goals/contributes-goal/contributes-goal-modal.test.js" timestamp="1512412785434">
+        <mark key="[" line="1" column="31" />
+        <mark key="]" line="1" column="31" />
+        <mark key="." line="1" column="31" />
+      </file>
       <file name="$USER_HOME$/projects/align-web/src/components/admin-dashboard/people-hierarchy/index.ts" timestamp="1498149434348">
         <mark key="[" line="0" column="8" />
         <mark key="]" line="0" column="24" />
@@ -712,7 +717,7 @@
         <mark key="." line="23" column="29" />
         <mark key="^" line="23" column="29" />
       </file>
-      <file name="/Dummy.txt" timestamp="1512398370826">
+      <file name="/Dummy.txt" timestamp="1512412720063">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="6" />
         <mark key="." line="0" column="6" />
@@ -2581,12 +2586,12 @@
         <mark key="^" line="1" column="65" />
         <mark key="." line="6" column="31" />
       </file>
-      <file name="$USER_HOME$/projects/align-web/package.json" timestamp="1512410371579">
+      <file name="$USER_HOME$/projects/align-web/package.json" timestamp="1512412620066">
         <mark key="'" line="100" column="0" />
-        <mark key="[" line="23" column="68" />
-        <mark key="]" line="23" column="68" />
-        <mark key="." line="23" column="68" />
-        <mark key="^" line="23" column="96" />
+        <mark key="[" line="71" column="22" />
+        <mark key="]" line="71" column="30" />
+        <mark key="." line="71" column="30" />
+        <mark key="^" line="71" column="30" />
       </file>
       <file name="$USER_HOME$/projects/align-web/husky-hooks/post-checkout" timestamp="1497374733668">
         <mark key="[" line="14" column="2" />
@@ -3515,10 +3520,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+        <text>test-utils/</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>test-utils/</text>
       </register>
       <register name="/" type="4">
         <text>^</text>
