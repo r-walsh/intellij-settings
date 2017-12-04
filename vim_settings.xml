@@ -167,10 +167,11 @@
         <mark key="^" line="22" column="22" />
         <mark key="." line="22" column="22" />
       </file>
-      <file name="$USER_HOME$/projects/align-web/src/components/avatar/index.tsx" timestamp="1512401676305">
-        <mark key="[" line="24" column="2" />
-        <mark key="]" line="24" column="2" />
-        <mark key="." line="24" column="2" />
+      <file name="$USER_HOME$/projects/align-web/src/components/avatar/index.tsx" timestamp="1512406167035">
+        <mark key="[" line="24" column="17" />
+        <mark key="]" line="24" column="17" />
+        <mark key="." line="24" column="17" />
+        <mark key="^" line="24" column="19" />
       </file>
       <file name="$USER_HOME$/projects/align-web/src/components/one-on-one/related-content/summary-item.tsx" timestamp="1497039999488">
         <mark key="[" line="23" column="54" />
@@ -2568,11 +2569,11 @@
         <mark key="." line="13" column="17" />
         <mark key="^" line="13" column="17" />
       </file>
-      <file name="$USER_HOME$/projects/align-web/webpack.config.js" timestamp="1512404173186">
-        <mark key="[" line="83" column="18" />
-        <mark key="]" line="83" column="30" />
-        <mark key="." line="83" column="30" />
-        <mark key="^" line="83" column="30" />
+      <file name="$USER_HOME$/projects/align-web/webpack.config.js" timestamp="1512406312920">
+        <mark key="[" line="65" column="10" />
+        <mark key="]" line="85" column="30" />
+        <mark key="." line="85" column="30" />
+        <mark key="^" line="85" column="30" />
       </file>
       <file name="$USER_HOME$/projects/align-web/ts-jest-preprocesser.js" timestamp="1494349254400">
         <mark key="[" line="6" column="31" />
@@ -3512,11 +3513,11 @@
       <jump line="24" column="0" filename="$USER_HOME$/projects/align-web/src/utils/filter-map.ts" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIG5ldyBEYXNoYm9hcmQoKSwK</text>
+      <register name="&quot;" type="4">
+        <text>r</text>
       </register>
       <register name="-" type="4">
-        <text>}</text>
+        <text>r</text>
       </register>
       <register name="/" type="4">
         <text>^</text>
