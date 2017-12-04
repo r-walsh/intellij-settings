@@ -1118,12 +1118,6 @@
         <mark key="^" line="0" column="1" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/align-web/src/components/one-on-one/wrapper.tsx" timestamp="1509467916657">
-        <mark key="[" line="37" column="0" />
-        <mark key="]" line="37" column="0" />
-        <mark key="." line="37" column="0" />
-        <mark key="^" line="16" column="41" />
-      </file>
       <file name="$USER_HOME$/projects/align-firebase-rules/model/analytics-user-event.bolt" timestamp="1512057002268">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
@@ -1318,6 +1312,11 @@
         <mark key="]" line="8" column="71" />
         <mark key="^" line="8" column="71" />
         <mark key="." line="8" column="71" />
+      </file>
+      <file name="$USER_HOME$/projects/align-web/src/components/goals/attach-goal/attach-goal.tsx" timestamp="1512399154060">
+        <mark key="[" line="64" column="39" />
+        <mark key="]" line="64" column="39" />
+        <mark key="." line="64" column="39" />
       </file>
       <file name="$USER_HOME$/projects/align-web/src/components/form/avatar-textarea.css" timestamp="1503603489313">
         <mark key="[" line="16" column="0" />
@@ -2565,6 +2564,12 @@
         <mark key="^" line="1" column="65" />
         <mark key="." line="6" column="31" />
       </file>
+      <file name="$USER_HOME$/projects/align-web/package.json" timestamp="1512399467322">
+        <mark key="'" line="100" column="0" />
+        <mark key="[" line="99" column="22" />
+        <mark key="]" line="99" column="22" />
+        <mark key="." line="99" column="22" />
+      </file>
       <file name="$USER_HOME$/projects/align-web/husky-hooks/post-checkout" timestamp="1497374733668">
         <mark key="[" line="14" column="2" />
         <mark key="]" line="14" column="2" />
@@ -2775,8 +2780,9 @@
         <mark key="^" line="64" column="84" />
         <mark key="." line="64" column="84" />
       </file>
-      <file name="$USER_HOME$/projects/align-web/src/components/modal/recurring-ooo.tsx" timestamp="1508947440969">
-        <mark key="[" line="4" column="22" />
+      <file name="$USER_HOME$/projects/align-web/src/components/modal/recurring-ooo.tsx" timestamp="1512399536988">
+        <mark key="'" line="378" column="18" />
+        <mark key="[" line="144" column="38" />
         <mark key="]" line="4" column="22" />
         <mark key="." line="4" column="22" />
         <mark key="^" line="244" column="28" />
@@ -3213,6 +3219,13 @@
         <mark key="]" line="78" column="0" />
         <mark key="." line="78" column="0" />
       </file>
+      <file name="$USER_HOME$/projects/align-web/src/utils/filter-map.ts" timestamp="1512399752341">
+        <mark key="'" line="24" column="0" />
+        <mark key="[" line="20" column="18" />
+        <mark key="]" line="20" column="22" />
+        <mark key="^" line="20" column="22" />
+        <mark key="." line="20" column="22" />
+      </file>
       <file name="$USER_HOME$/projects/align-web/src/actions/insights.js" timestamp="1496418841442">
         <mark key="[" line="5" column="24" />
         <mark key="]" line="5" column="24" />
@@ -3293,6 +3306,12 @@
         <mark key="]" line="0" column="39" />
         <mark key="." line="0" column="39" />
         <mark key="^" line="0" column="46" />
+      </file>
+      <file name="$USER_HOME$/projects/align-web/src/components/admin-dashboard/suggested-content/suggested-content.tsx" timestamp="1512399037254">
+        <mark key="[" line="120" column="70" />
+        <mark key="]" line="120" column="74" />
+        <mark key="^" line="120" column="74" />
+        <mark key="." line="120" column="74" />
       </file>
       <file name="$USER_HOME$/projects/align-web/test/components/one-on-one/menu/comments/comment-form.test.js" timestamp="1507218020061">
         <mark key="[" line="3" column="0" />
@@ -3375,11 +3394,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="83" column="21" filename="$USER_HOME$/projects/align-web/src/components/one-on-one/content-section/content-section.tsx" />
-      <jump line="31" column="18" filename="$USER_HOME$/projects/align-web/src/actions/one-on-one.js" />
-      <jump line="72" column="22" filename="$USER_HOME$/projects/align-web/src/actions/one-on-one.js" />
-      <jump line="122" column="0" filename="$USER_HOME$/projects/align-web/src/actions/one-on-one.js" />
-      <jump line="31" column="29" filename="$USER_HOME$/projects/align-web/src/components/modal/recurring-ooo.tsx" />
       <jump line="65" column="31" filename="$USER_HOME$/projects/align-web/src/components/modal/recurring-ooo.tsx" />
       <jump line="138" column="49" filename="$USER_HOME$/projects/align-web/src/components/modal/recurring-ooo.tsx" />
       <jump line="73" column="1" filename="$USER_HOME$/projects/align-web/src/components/modal/recurring-ooo.tsx" />
@@ -3475,16 +3489,21 @@
       <jump line="207" column="13" filename="$USER_HOME$/projects/align-web/src/components/admin-dashboard/agendas/agenda-form-wrapper/agenda-form-wrapper.tsx" />
       <jump line="30" column="11" filename="$USER_HOME$/projects/align-web/src/components/admin-dashboard/people/teams/edit-team-members.tsx" />
       <jump line="310" column="19" filename="$USER_HOME$/projects/align-web/src/components/profile/profile.tsx" />
+      <jump line="376" column="18" filename="$USER_HOME$/projects/align-web/src/components/modal/recurring-ooo.tsx" />
+      <jump line="99" column="22" filename="$USER_HOME$/projects/align-web/package.json" />
+      <jump line="100" column="0" filename="$USER_HOME$/projects/align-web/package.json" />
+      <jump line="661" column="8" filename="$USER_HOME$/projects/align-web/src/components/one-on-one/wrapper.tsx" />
+      <jump line="24" column="0" filename="$USER_HOME$/projects/align-web/src/utils/filter-map.ts" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+        <text>^</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>^</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxQcm9wVHlwZXNcPg==</text>
+        <text>^</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">cGF0aCAvYXV0aFVzZXJzIHsKICAgIHJlYWQoKSB7IGlzU2lnbmVkSW4oKSB9CiAgICB3cml0ZSgpIHsgaXNTaWduZWRJbigpIH0KfQo=</text>
@@ -3521,15 +3540,14 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxQcm9wVHlwZXNcPg==</last-search>
+      <last-search>^</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxQcm9wVHlwZXNcPg==</last-pattern>
-      <last-dir>1</last-dir>
+      <last-pattern>^</last-pattern>
+      <last-dir>-1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>react-g</entry>
         <entry>@types/react-r</entry>
         <entry>render</entry>
         <entry>id</entry>
@@ -3549,6 +3567,7 @@
         <entry>TalkingP</entry>
         <entry>getMen</entry>
         <entry encoding="base64">XDxQcm9wVHlwZXNcPg==</entry>
+        <entry>^</entry>
       </history-search>
       <history-cmd>
         <entry>ew</entry>
