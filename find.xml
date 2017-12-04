@@ -1,8 +1,8 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="Directory '.../src [align-web]'" />
-    <option name="defaultScopeName" value="Directory '.../src [align-web]'" />
-    <option name="SEARCH_SCOPE" value="Directory '.../src [align-web]'" />
+    <option name="customScope" value="All Places" />
+    <option name="defaultScopeName" value="All Places" />
+    <option name="SEARCH_SCOPE" value="All Places" />
     <option name="FILE_MASK" value="*.js, *ts, *.tsx, *.css" />
     <recentFileMasks>
       <mask>*.js,</mask>
