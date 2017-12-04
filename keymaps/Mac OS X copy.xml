@@ -1,7 +1,12 @@
 <keymap version="1" name="Mac OS X copy" parent="Mac OS X">
+  <action id="CheckinProject" />
   <action id="CloseContent">
     <keyboard-shortcut first-keystroke="meta f4" />
     <keyboard-shortcut first-keystroke="meta w" />
   </action>
   <action id="EditorSelectWord" />
+  <action id="RecentFiles">
+    <keyboard-shortcut first-keystroke="meta e" />
+    <keyboard-shortcut first-keystroke="meta k" />
+  </action>
 </keymap>
