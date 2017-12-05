@@ -2862,11 +2862,10 @@
         <mark key="]" line="317" column="0" />
         <mark key="." line="317" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/align-web/src/components/one-on-one/menu/talking-points/talking-points.tsx" timestamp="1512505072785">
-        <mark key="[" line="110" column="26" />
-        <mark key="]" line="114" column="44" />
-        <mark key="." line="114" column="44" />
-        <mark key="^" line="114" column="44" />
+      <file name="$USER_HOME$/projects/align-web/src/components/one-on-one/menu/talking-points/talking-points.tsx" timestamp="1512506670643">
+        <mark key="[" line="70" column="0" />
+        <mark key="]" line="70" column="0" />
+        <mark key="." line="70" column="0" />
       </file>
       <file name="$USER_HOME$/projects/align-web/src/containers/schedule/index.js" timestamp="1508426434025">
         <mark key="[" line="29" column="41" />
@@ -3308,6 +3307,12 @@
         <mark key="." line="24" column="39" />
         <mark key="^" line="24" column="38" />
       </file>
+      <file name="$USER_HOME$/projects/align-web/src/components/one-on-one/menu/sidebar-goals/sidebar-goals.tsx" timestamp="1512506768347">
+        <mark key="[" line="0" column="31" />
+        <mark key="]" line="1" column="35" />
+        <mark key="^" line="1" column="35" />
+        <mark key="." line="1" column="35" />
+      </file>
       <file name="$USER_HOME$/projects/zeelib/src/filter-map.test.js" timestamp="1502139066273">
         <mark key="[" line="10" column="0" />
         <mark key="]" line="10" column="0" />
@@ -3566,44 +3571,44 @@
       <jump line="374" column="0" filename="$USER_HOME$/projects/align-web/src/components/one-on-one/wrapper.tsx" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">aW1wb3J0IHsgYW5hbHl0aWNzTmFtZUZyb21UeXBlIH0gZnJvbSAndXRpbHMvcmVsYXRlZC1jb250ZW50JzsK</text>
+      <register name="&quot;" type="4">
+        <text>editGoal</text>
       </register>
       <register name="-" type="4">
-        <text>categroy</text>
+        <text>editGoal</text>
       </register>
       <register name="/" type="4">
         <text>^</text>
       </register>
       <register name="0" type="4">
-        <text>${analyticsNameFromType(type)} added to ${analyticsSection}</text>
+        <text encoding="base64">ICAgICAgICAgICAgICBSZWFjdEdBLmV2ZW50KHsKICAgICAgICAgICAgICAgIGFjdGlvbjogJ1RhbGtpbmcgUG9pbnQgQ3JlYXRlZCBSZWxhdGVkIENvbnRlbnQnLAogICAgICAgICAgICAgICAgY2F0ZWdvcnk6ICdSZWxhdGVkIENvbnRlbnQnLAogICAgICAgICAgICAgIH0pOwogICAgICAgICAgICAgIGNyZWF0ZVRhbGtpbmdQb2ludE1vZGFsKHsgc2hvdzogdHJ1ZSwgdGV4dDogJycgfSk7</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">aW1wb3J0IHsgYW5hbHl0aWNzTmFtZUZyb21UeXBlIH0gZnJvbSAndXRpbHMvcmVsYXRlZC1jb250ZW50JzsK</text>
+        <text encoding="base64">ICAgICAgY3JlYXRlVGFsa2luZ1BvaW50TW9kYWwsCg==</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+      <register name="2" type="4">
+        <text encoding="base64">KCkgPT4gewogICAgICAgICAgICAgIFJlYWN0R0EuZXZlbnQoewogICAgICAgICAgICAgICAgYWN0aW9uOiAnVGFsa2luZyBQb2ludCBDcmVhdGVkIFJlbGF0ZWQgQ29udGVudCcsCiAgICAgICAgICAgICAgICBjYXRlZ29yeTogJ1JlbGF0ZWQgQ29udGVudCcsCiAgICAgICAgICAgICAgfSk7CiAgICAgICAgICAgICAgY3JlYXRlVGFsa2luZ1BvaW50TW9kYWwoeyBzaG93OiB0cnVlLCB0ZXh0OiAnJyB9KTsKICAgICAgICAgICAgfQ==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKGZpZWxkKTsK</text>
+        <text encoding="base64">aW1wb3J0IHsgYW5hbHl0aWNzTmFtZUZyb21UeXBlIH0gZnJvbSAndXRpbHMvcmVsYXRlZC1jb250ZW50JzsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKGAke2FuYWx5dGljc05hbWVGcm9tVHlwZSh0eXBlKX0gYWRkZWQgdG8gJHthbmFseXRpY3NTZWN0aW9ufWApOwo=</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGxldCBhbmFseXRpY3NUeXBlOwo=</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKGZpZWxkKTsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBhbmFseXRpY3NUeXBlID0gJ0F0dGFjaG1lbnQnOwo=</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKGAke2FuYWx5dGljc05hbWVGcm9tVHlwZSh0eXBlKX0gYWRkZWQgdG8gJHthbmFseXRpY3NTZWN0aW9ufWApOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBhbmFseXRpY3NUeXBlID0gJ0dvYWwnOwo=</text>
+        <text encoding="base64">ICAgIGxldCBhbmFseXRpY3NUeXBlOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBhbmFseXRpY3NUeXBlID0gJ1RhbGtpbmcgUG9pbnQnOwo=</text>
+        <text encoding="base64">ICAgICAgICBhbmFseXRpY3NUeXBlID0gJ0F0dGFjaG1lbnQnOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAoYW5hbHl0aWNzU2VjdGlvbikgewogICAgICAgICAgUmVhY3RHQS5ldmVudCh7CiAgICAgICAgICAgIGFjdGlvbjogYEF0dGFjaG1lbnQgQWRkZWQgdG8gJHthbmFseXRpY3NTZWN0aW9ufWAsCiAgICAgICAgICAgIGNhdGVnb3J5OiAnUmVsYXRlZCBDb250ZW50JywKICAgICAgICAgIH0pOwogICAgICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICBhbmFseXRpY3NUeXBlID0gJ0dvYWwnOwo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
