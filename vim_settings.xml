@@ -2604,12 +2604,12 @@
         <mark key="^" line="1" column="65" />
         <mark key="." line="6" column="31" />
       </file>
-      <file name="$USER_HOME$/projects/align-web/package.json" timestamp="1512412620066">
+      <file name="$USER_HOME$/projects/align-web/package.json" timestamp="1512493475491">
         <mark key="'" line="100" column="0" />
-        <mark key="[" line="71" column="22" />
-        <mark key="]" line="71" column="30" />
-        <mark key="." line="71" column="30" />
-        <mark key="^" line="71" column="30" />
+        <mark key="[" line="23" column="71" />
+        <mark key="]" line="23" column="67" />
+        <mark key="." line="23" column="67" />
+        <mark key="^" line="23" column="67" />
       </file>
       <file name="$USER_HOME$/projects/align-web/husky-hooks/post-checkout" timestamp="1497374733668">
         <mark key="[" line="14" column="2" />
@@ -3543,11 +3543,11 @@
       <jump line="24" column="0" filename="$USER_HOME$/projects/align-web/src/utils/filter-map.ts" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHNlYXJjaCgnc3VnZ2VzdGVkIHRoaW5ncycpKTsK</text>
+      <register name="&quot;" type="4">
+        <text>runInBand</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>runInBand</text>
       </register>
       <register name="/" type="4">
         <text>^</text>
