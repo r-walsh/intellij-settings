@@ -149,6 +149,12 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/projects/align-web/src/utils/validator.ts" timestamp="1512400692958">
+        <mark key="[" line="90" column="11" />
+        <mark key="]" line="85" column="43" />
+        <mark key="." line="85" column="43" />
+        <mark key="^" line="85" column="43" />
+      </file>
       <file name="$USER_HOME$/projects/align-web/src/components/one-on-one/content-section/index.ts" timestamp="1506532413046">
         <mark key="[" line="0" column="64" />
         <mark key="]" line="1" column="50" />
@@ -206,8 +212,10 @@
         <mark key="^" line="0" column="48" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/align-web/test/components/suggested-content/suggested-content-item.test.js" timestamp="1512659210584">
-        <mark key="[" line="3" column="66" />
+      <file name="$USER_HOME$/projects/align-web/test/components/suggested-content/suggested-content-item.test.js" timestamp="1512670216762">
+        <mark key="[" line="24" column="0" />
+        <mark key="]" line="24" column="0" />
+        <mark key="." line="24" column="0" />
       </file>
       <file name="$USER_HOME$/projects/align-web/src/utils/translations/toString.ts" timestamp="1508855212108">
         <mark key="[" line="3" column="2" />
@@ -382,6 +390,12 @@
         <mark key="]" line="1" column="6" />
         <mark key="^" line="1" column="6" />
         <mark key="." line="1" column="6" />
+      </file>
+      <file name="$USER_HOME$/projects/align-web/src/interfaces/TypeUtils.ts" timestamp="1512492011397">
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="2" column="0" />
+        <mark key="^" line="12" column="74" />
+        <mark key="." line="2" column="0" />
       </file>
       <file name="$USER_HOME$/projects/posts-graphql/client/src/components/AuthorDetail/AuthorDetail.tsx" timestamp="1508529880292">
         <mark key="[" line="28" column="42" />
@@ -1665,6 +1679,12 @@
         <mark key="^" line="0" column="34" />
         <mark key="." line="0" column="34" />
       </file>
+      <file name="$USER_HOME$/projects/align-web/test/components/suggested-content/suggested-content-search.test.js" timestamp="1512669208032">
+        <mark key="[" line="48" column="85" />
+        <mark key="]" line="48" column="32" />
+        <mark key="^" line="48" column="32" />
+        <mark key="." line="48" column="32" />
+      </file>
       <file name="$USER_HOME$/projects/align-web/src/interfaces/Recurring.ts" timestamp="1494523091717">
         <mark key="[" line="25" column="1" />
         <mark key="]" line="25" column="1" />
@@ -2676,11 +2696,11 @@
         <mark key="." line="45" column="44" />
         <mark key="^" line="45" column="44" />
       </file>
-      <file name="$USER_HOME$/projects/align-web/src/components/suggested-content/suggested-content-item/suggested-content-item.tsx" timestamp="1512659131223">
-        <mark key="[" line="4" column="21" />
-        <mark key="]" line="4" column="48" />
-        <mark key="." line="4" column="48" />
-        <mark key="^" line="4" column="48" />
+      <file name="$USER_HOME$/projects/align-web/src/components/suggested-content/suggested-content-item/suggested-content-item.tsx" timestamp="1512669521198">
+        <mark key="[" line="2" column="40" />
+        <mark key="]" line="3" column="0" />
+        <mark key="." line="3" column="0" />
+        <mark key="^" line="3" column="0" />
       </file>
       <file name="$USER_HOME$/projects/zeelib/src/filter-map.js" timestamp="1502138385640">
         <mark key="[" line="7" column="5" />
@@ -3589,44 +3609,44 @@
       <jump line="0" column="0" filename="$USER_HOME$/projects/align-web/src/components/suggested-content/suggested-content-search.tsx" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>4</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHRvSnNvbih3cmFwcGVyKSk7Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>4</text>
+        <text>Object.keys</text>
       </register>
       <register name="/" type="4">
         <text>^</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIHRva2VuaXplOiB0cnVlLAo=</text>
+        <text encoding="base64">ICAgICAgICB0YWdzOiBbeyBtdXNpYzogdHJ1ZSwgY2xhc3NpY2FsOiB0cnVlIH1dLAo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHRoaXMuc2V0U3RhdGUoKCkgPT4gKHsKICAgICAgc2VhcmNoVGVybTogdXBkYXRlZFNlYXJjaFRlcm0sCiAgICB9KSk7Cg==</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHRvSnNvbih3cmFwcGVyKSk7Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAuc3BsaXQoJyAnKQogICAgICAgIC5zbGljZSgwLCAtMSkKICAgICAgICAuam9pbignICcpfSAke3RhZ30gYC50cmltTGVmdCgpLAo=</text>
+        <text encoding="base64">ICAgICAgdGFnczogWydtdXNpYycsICdjbGFzc2ljYWwnXSwK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">aW1wb3J0IHsgVGV4dEZpZWxkIGFzIElUZXh0fQo=</text>
+        <text encoding="base64">aW1wb3J0IHsgU3VnZ2VzdGVkQ29udGVudCB9IGZyb20gJy4uLy4uLy4uL3NyYy9jb21wb25lbnRzL2FkbWluLWRhc2hib2FyZC9zdWdnZXN0ZWQtY29udGVudCc7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgcmVmPXsoKSA9PiB7fX0K</text>
+        <text encoding="base64">ICAgICAgICB0YWdzOiBbJ211c2ljJywgJ2NsYXNzaWNhbCcsICdyb21hbnRpYyddLAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgIGZvCg==</text>
+        <text encoding="base64">ICAgICAgICB0YWdzOiBbJ211c2ljJywgJ2NsYXNzaWNhbCcsICdyb21hbnRpYycsICdkcmFtYXRpYyddLAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgIHJvbwo=</text>
+        <text encoding="base64">ICAgIHRoaXMuc2V0U3RhdGUoKCkgPT4gKHsKICAgICAgc2VhcmNoVGVybTogdXBkYXRlZFNlYXJjaFRlcm0sCiAgICB9KSk7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgIGlucHV0UmVmPXt9Cg==</text>
+        <text encoding="base64">ICAgICAgICAuc3BsaXQoJyAnKQogICAgICAgIC5zbGljZSgwLCAtMSkKICAgICAgICAuam9pbignICcpfSAke3RhZ30gYC50cmltTGVmdCgpLAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgIGlubmVyUmVmPXsoKSA9PiB7fX0K</text>
+        <text encoding="base64">aW1wb3J0IHsgVGV4dEZpZWxkIGFzIElUZXh0fQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgIHJlZj17KCkgPT4ge319Cg==</text>
+        <text encoding="base64">ICAgICAgcmVmPXsoKSA9PiB7fX0K</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
