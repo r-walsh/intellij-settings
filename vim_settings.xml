@@ -213,6 +213,12 @@
         <mark key="^" line="0" column="48" />
         <mark key="." line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/projects/align-web/test/components/suggested-content/suggested-content-item.test.js" timestamp="1512747211732">
+        <mark key="[" line="33" column="6" />
+        <mark key="]" line="33" column="6" />
+        <mark key="^" line="52" column="4" />
+        <mark key="." line="33" column="6" />
+      </file>
       <file name="$USER_HOME$/projects/align-web/src/utils/translations/toString.ts" timestamp="1508855212108">
         <mark key="[" line="3" column="2" />
         <mark key="]" line="2" column="13" />
@@ -489,10 +495,8 @@
         <mark key="." line="0" column="29" />
         <mark key="^" line="0" column="29" />
       </file>
-      <file name="$USER_HOME$/projects/align-web/src/utils/suggested-content.tsx" timestamp="1512686852760">
-        <mark key="[" line="1" column="39" />
-        <mark key="]" line="97" column="0" />
-        <mark key="." line="97" column="0" />
+      <file name="$USER_HOME$/projects/align-web/src/utils/suggested-content.tsx" timestamp="1512747358537">
+        <mark key="^" line="108" column="33" />
       </file>
       <file name="$USER_HOME$/projects/align-web/src/components/schedule/schedule-main.js" timestamp="1495554553347">
         <mark key="[" line="170" column="0" />
@@ -2697,10 +2701,8 @@
         <mark key="." line="45" column="44" />
         <mark key="^" line="45" column="44" />
       </file>
-      <file name="$USER_HOME$/projects/align-web/src/components/suggested-content/suggested-content-item/suggested-content-item.tsx" timestamp="1512745911922">
-        <mark key="[" line="30" column="0" />
-        <mark key="]" line="30" column="0" />
-        <mark key="." line="30" column="0" />
+      <file name="$USER_HOME$/projects/align-web/src/components/suggested-content/suggested-content-item/suggested-content-item.tsx" timestamp="1512747480282">
+        <mark key="^" line="53" column="81" />
       </file>
       <file name="$USER_HOME$/projects/zeelib/src/filter-map.js" timestamp="1502138385640">
         <mark key="[" line="7" column="5" />
@@ -3609,11 +3611,11 @@
       <jump line="0" column="0" filename="$USER_HOME$/projects/align-web/src/components/suggested-content/suggested-content-search.tsx" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICBjb25zb2xlLmxvZygnaGVyZScpOwo=</text>
+      <register name="&quot;" type="4">
+        <text>console.log(tag) ||</text>
       </register>
       <register name="-" type="4">
-        <text>pink</text>
+        <text>console.log(tag) ||</text>
       </register>
       <register name="/" type="4">
         <text>^</text>
