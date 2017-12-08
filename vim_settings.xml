@@ -213,11 +213,11 @@
         <mark key="^" line="0" column="48" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/align-web/test/components/suggested-content/suggested-content-item.test.js" timestamp="1512747211732">
-        <mark key="[" line="33" column="6" />
-        <mark key="]" line="33" column="6" />
-        <mark key="^" line="52" column="4" />
-        <mark key="." line="33" column="6" />
+      <file name="$USER_HOME$/projects/align-web/test/components/suggested-content/suggested-content-item.test.js" timestamp="1512750128918">
+        <mark key="[" line="11" column="46" />
+        <mark key="]" line="11" column="44" />
+        <mark key="^" line="11" column="44" />
+        <mark key="." line="11" column="44" />
       </file>
       <file name="$USER_HOME$/projects/align-web/src/utils/translations/toString.ts" timestamp="1508855212108">
         <mark key="[" line="3" column="2" />
@@ -495,8 +495,10 @@
         <mark key="." line="0" column="29" />
         <mark key="^" line="0" column="29" />
       </file>
-      <file name="$USER_HOME$/projects/align-web/src/utils/suggested-content.tsx" timestamp="1512747358537">
-        <mark key="^" line="108" column="33" />
+      <file name="$USER_HOME$/projects/align-web/src/utils/suggested-content.tsx" timestamp="1512750309668">
+        <mark key="[" line="130" column="0" />
+        <mark key="]" line="130" column="0" />
+        <mark key="." line="130" column="0" />
       </file>
       <file name="$USER_HOME$/projects/align-web/src/components/schedule/schedule-main.js" timestamp="1495554553347">
         <mark key="[" line="170" column="0" />
@@ -2701,8 +2703,10 @@
         <mark key="." line="45" column="44" />
         <mark key="^" line="45" column="44" />
       </file>
-      <file name="$USER_HOME$/projects/align-web/src/components/suggested-content/suggested-content-item/suggested-content-item.tsx" timestamp="1512747480282">
-        <mark key="^" line="53" column="81" />
+      <file name="$USER_HOME$/projects/align-web/src/components/suggested-content/suggested-content-item/suggested-content-item.tsx" timestamp="1512750678490">
+        <mark key="[" line="30" column="0" />
+        <mark key="]" line="30" column="0" />
+        <mark key="." line="30" column="0" />
       </file>
       <file name="$USER_HOME$/projects/zeelib/src/filter-map.js" timestamp="1502138385640">
         <mark key="[" line="7" column="5" />
@@ -3611,44 +3615,44 @@
       <jump line="0" column="0" filename="$USER_HOME$/projects/align-web/src/components/suggested-content/suggested-content-search.tsx" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>console.log(tag) ||</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICBjb25zb2xlLmxvZygKICAgIGtleXNXaXRoRGVmYXVsdChjb250ZW50LnRhZ3MpLm1hcCgKICAgICAgKHRhZywgaW5kZXgpID0+CiAgICAgICAgKAogICAgICAgICAgPHNwYW4gY2xhc3NOYW1lPXtjc3MudGFnfSBrZXk9e3RhZ30+CiAgICAgICAgICAgIHtmaW5kTWF0Y2goCiAgICAgICAgICAgICAgbWF0Y2hlcywKICAgICAgICAgICAgICB0YWcsCiAgICAgICAgICAgICAgKHsga2V5LCBhcnJheUluZGV4IH0pID0+IGtleSA9PT0gJ3RhZ3MnICYmIGFycmF5SW5kZXggPT09IGluZGV4LAogICAgICAgICAgICApfQogICAgICAgICAgPC9zcGFuPgogICAgICAgIClbMF0sCiAgICApWzBdLmNoaWxkcmVuLAogICk7Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>console.log(tag) ||</text>
+        <text>children</text>
       </register>
       <register name="/" type="4">
         <text>^</text>
       </register>
       <register name="0" type="4">
-        <text>Beethoven: Symphony No.3: Eroica</text>
+        <text encoding="base64">a2V5c1dpdGhEZWZhdWx0KGNvbnRlbnQudGFncykubWFwKCh0YWcsIGluZGV4KSA9PiAoCiAgICAgICAgICAgICAgPHNwYW4gY2xhc3NOYW1lPXtjc3MudGFnfSBrZXk9e3RhZ30+CiAgICAgICAgICAgICAgICB7ZmluZE1hdGNoKAogICAgICAgICAgICAgICAgICBtYXRjaGVzLAogICAgICAgICAgICAgICAgICB0YWcsCiAgICAgICAgICAgICAgICAgICh7IGtleSwgYXJyYXlJbmRleCB9KSA9PgogICAgICAgICAgICAgICAgICAgIGtleSA9PT0gJ3RhZ3MnICYmIGFycmF5SW5kZXggPT09IGluZGV4LAogICAgICAgICAgICAgICAgKX0KICAgICAgICAgICAgICA8L3NwYW4+CiAgICAgICAgICAgICkp</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICBjb25zb2xlLmxvZygnaGVyZScpOwo=</text>
+        <text encoding="base64">ICBjb25zb2xlLmxvZygKICAgIGtleXNXaXRoRGVmYXVsdChjb250ZW50LnRhZ3MpLm1hcCgKICAgICAgKHRhZywgaW5kZXgpID0+CiAgICAgICAgKAogICAgICAgICAgPHNwYW4gY2xhc3NOYW1lPXtjc3MudGFnfSBrZXk9e3RhZ30+CiAgICAgICAgICAgIHtmaW5kTWF0Y2goCiAgICAgICAgICAgICAgbWF0Y2hlcywKICAgICAgICAgICAgICB0YWcsCiAgICAgICAgICAgICAgKHsga2V5LCBhcnJheUluZGV4IH0pID0+IGtleSA9PT0gJ3RhZ3MnICYmIGFycmF5SW5kZXggPT09IGluZGV4LAogICAgICAgICAgICApfQogICAgICAgICAgPC9zcGFuPgogICAgICAgIClbMF0sCiAgICApWzBdLmNoaWxkcmVuLAogICk7Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">aW1wb3J0IHsgYXJyYXkgfSBmcm9tICdwcm9wLXR5cGVzJzsK</text>
+        <text encoding="base64">ICBjb25zdCBmb28gPSAodGFnOiBzdHJpbmcsIGluZGV4OiBudW1iZXIpID0+IHsKICAgIHRyeSB7CiAgICAgIGZpbmRNYXRjaCgKICAgICAgICBtYXRjaGVzLAogICAgICAgIHRhZywKICAgICAgICAoeyBrZXksIGFycmF5SW5kZXggfSkgPT4ga2V5ID09PSAndGFncycgJiYgYXJyYXlJbmRleCA9PT0gaW5kZXgsCiAgICAgICk7CiAgICB9IGNhdGNoIChlKSB7CiAgICAgIGNvbnNvbGUubG9nKGUpOwogICAgfQogIH07Cgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">aW1wb3J0IHsgc2hhbGxvd1RvSnNvbiB9IGZyb20gJy4uLy4uL3Rlc3QtdXRpbHMvc2hhbGxvd1RvSnNvbic7Cg==</text>
+        <text encoding="base64">ICBjb25zb2xlLmxvZyh0b3RhbCk7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICByZXR1cm4gW107Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ZnVuY3Rpb24gcmdiYShoZXg6IHN0cmluZywgb3BhY2l0eTogbnVtYmVyKSB7CiAgdmFyIGNvbG91cnMgPSBoZXgucmVnZXgoLyM/KFswLTlBLUZdezJ9KShbMC05QS1GXXsyfSkoWzAtOUEtRl17Mn0pL2kpLm1hcChmdW5jdGlvbih2YWwpIHsKICAgIHJldHVybiBNYXRoLnJhbmdlKDAsIHBhcnNlSW50KHZhbCwgMTYpLCAyNTUpOwogIH0pLmpvaW4oIiwiKTsKICBpZiAob3BhY2l0eSA9PT0gdW5kZWZpbmVkKSB7CiAgICByZXR1cm4gInJnYigiICsgY29sb3VycyArICIpIjsKICB9CiAgcmV0dXJuICJyZ2JhKCIgKyBjb2xvdXJzICsgIiwiICsgb3BhY2l0eSArICIpIjsKfQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHtmb28odGFnLCBpbmRleCl9Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBjb25zb2xlLmxvZyhtYXRjaGRkKTsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICBiYWNrZ3JvdW5kQ29sb3I6IGAjJHtsaWdodGVuQ29sb3IoCiAgICAgICAgICAgICAgICBjc3NWYXJpYWJsZXNbJy0tY29sb3ItcHJpbWFyeS01MDAnXSwKICAgICAgICAgICAgICAgIDgwLAogICAgICAgICAgICAgICl9YCwK</text>
+        <text encoding="base64">ICAgICAgICAgIHsKICAgICAgICAgICAgaW5kaWNlczogW1swLCAyXSwgWzQsIDldXSwKICAgICAgICAgICAga2V5OiAndGl0bGUnLAogICAgICAgICAgICB2YWx1ZTogJ0JlZXRob3ZlbjogU3ltcGhvbnkgTm8uMzogRXJvaWNhJywKICAgICAgICAgIH0sCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICBjb25zb2xlLmxvZyhsaWdodGVuQ29sb3IoY3NzVmFyaWFibGVzWyctLWNvbG9yLXByaW1hcnktNTAwJ10sIDgwKSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgIHsKICAgICAgICAgICAgYXJyYXlJbmRleDogMCwKICAgICAgICAgICAgaW5kaWNlczogW1swLCAzXV0sCiAgICAgICAgICAgIGtleTogJ3RhZ3MnLAogICAgICAgICAgICB2YWx1ZTogJ211c2ljJywKICAgICAgICAgIH0sCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgIHsKICAgICAgICAgICAgaW5kaWNlczogW1swLCAyXSwgWzQsIDldXSwKICAgICAgICAgICAga2V5OiAndGl0bGUnLAogICAgICAgICAgICB2YWx1ZTogJ0JlZXRob3ZlbjogU3ltcGhvbnkgTm8uMzogRXJvaWNhJywKICAgICAgICAgIH0sCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
