@@ -495,9 +495,9 @@
         <mark key="." line="0" column="29" />
         <mark key="^" line="0" column="29" />
       </file>
-      <file name="$USER_HOME$/projects/align-web/src/utils/suggested-content.tsx" timestamp="1512750309668">
-        <mark key="[" line="130" column="0" />
-        <mark key="]" line="130" column="0" />
+      <file name="$USER_HOME$/projects/align-web/src/utils/suggested-content.tsx" timestamp="1512754314859">
+        <mark key="[" line="53" column="0" />
+        <mark key="]" line="62" column="18" />
         <mark key="." line="130" column="0" />
       </file>
       <file name="$USER_HOME$/projects/align-web/src/components/schedule/schedule-main.js" timestamp="1495554553347">
@@ -3615,8 +3615,8 @@
       <jump line="0" column="0" filename="$USER_HOME$/projects/align-web/src/components/suggested-content/suggested-content-search.tsx" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">aW1wb3J0IHsgc2hhbGxvd1RvSnNvbiB9IGZyb20gJy4uLy4uL3Rlc3QtdXRpbHMvc2hhbGxvd1RvSnNvbic7Cg==</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">ICAgIGluY2x1ZGVNYXRjaGVzOiB0cnVlLAogICAga2V5czogWwogICAgICB7IG5hbWU6ICd0YWdzJywgd2VpZ2h0OiAwLjQgfSwKICAgICAgeyBuYW1lOiAndGl0bGUnLCB3ZWlnaHQ6IDAuNCB9LAogICAgICB7IG5hbWU6ICd1cmwnLCB3ZWlnaHQ6IDAuMiB9LAogICAgXSwKICAgIG1pbk1hdGNoQ2hhckxlbmd0aDogMiwKICAgIHNob3VsZFNvcnQ6IHRydWUsCiAgICB0aHJlc2hvbGQ6IDAuMywKICAgIHRva2VuaXplOiB0cnVlLA==</text>
       </register>
       <register name="-" type="4">
         <text>, [4, 9]</text>
@@ -3625,19 +3625,7 @@
         <text>^</text>
       </register>
       <register name="0" type="4">
-        <text>[
-          {
-            arrayIndex: 0,
-            indices: [[0, 3]],
-            key: 'tags',
-            value: 'music',
-          },
-          {
-            indices: [[0, 2], [4, 9]],
-            key: 'title',
-            value: 'Beethoven: Symphony No.3: Eroica',
-          },
-        ]</text>
+        <text encoding="base64">ICAgIGluY2x1ZGVNYXRjaGVzOiB0cnVlLAogICAga2V5czogWwogICAgICB7IG5hbWU6ICd0YWdzJywgd2VpZ2h0OiAwLjQgfSwKICAgICAgeyBuYW1lOiAndGl0bGUnLCB3ZWlnaHQ6IDAuNCB9LAogICAgICB7IG5hbWU6ICd1cmwnLCB3ZWlnaHQ6IDAuMiB9LAogICAgXSwKICAgIG1pbk1hdGNoQ2hhckxlbmd0aDogMiwKICAgIHNob3VsZFNvcnQ6IHRydWUsCiAgICB0aHJlc2hvbGQ6IDAuMywKICAgIHRva2VuaXplOiB0cnVlLA==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">aW1wb3J0IHsgc2hhbGxvd1RvSnNvbiB9IGZyb20gJy4uLy4uL3Rlc3QtdXRpbHMvc2hhbGxvd1RvSnNvbic7Cg==</text>
