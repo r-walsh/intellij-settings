@@ -213,11 +213,6 @@
         <mark key="^" line="0" column="48" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/align-web/test/components/suggested-content/suggested-content-item.test.js" timestamp="1512670216762">
-        <mark key="[" line="24" column="0" />
-        <mark key="]" line="24" column="0" />
-        <mark key="." line="24" column="0" />
-      </file>
       <file name="$USER_HOME$/projects/align-web/src/utils/translations/toString.ts" timestamp="1508855212108">
         <mark key="[" line="3" column="2" />
         <mark key="]" line="2" column="13" />
@@ -1566,8 +1561,11 @@
         <mark key="." line="4" column="34" />
         <mark key="^" line="4" column="34" />
       </file>
-      <file name="$USER_HOME$/projects/align-web/src/components/suggested-content/suggested-content-search.tsx" timestamp="1512679638934">
+      <file name="$USER_HOME$/projects/align-web/src/components/suggested-content/suggested-content-search.tsx" timestamp="1512745445213">
         <mark key="'" line="0" column="0" />
+        <mark key="]" line="112" column="7" />
+        <mark key="^" line="112" column="7" />
+        <mark key="." line="112" column="7" />
       </file>
       <file name="$USER_HOME$/projects/align-web/src/components/agendas/index.js" timestamp="1501695494458">
         <mark key="[" line="131" column="8" />
@@ -2699,6 +2697,11 @@
         <mark key="." line="45" column="44" />
         <mark key="^" line="45" column="44" />
       </file>
+      <file name="$USER_HOME$/projects/align-web/src/components/suggested-content/suggested-content-item/suggested-content-item.tsx" timestamp="1512745911922">
+        <mark key="[" line="30" column="0" />
+        <mark key="]" line="30" column="0" />
+        <mark key="." line="30" column="0" />
+      </file>
       <file name="$USER_HOME$/projects/zeelib/src/filter-map.js" timestamp="1502138385640">
         <mark key="[" line="7" column="5" />
         <mark key="]" line="7" column="5" />
@@ -3607,7 +3610,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBjb25zb2xlLmxvZygnaGVyZScpOwo=</text>
       </register>
       <register name="-" type="4">
         <text>pink</text>
@@ -3615,35 +3618,35 @@
       <register name="/" type="4">
         <text>^</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICB0YWdzOiBbeyBtdXNpYzogdHJ1ZSwgY2xhc3NpY2FsOiB0cnVlIH1dLAo=</text>
+      <register name="0" type="4">
+        <text>Beethoven: Symphony No.3: Eroica</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBjb25zb2xlLmxvZygnaGVyZScpOwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ZnVuY3Rpb24gcmdiYShoZXg6IHN0cmluZywgb3BhY2l0eTogbnVtYmVyKSB7CiAgdmFyIGNvbG91cnMgPSBoZXgucmVnZXgoLyM/KFswLTlBLUZdezJ9KShbMC05QS1GXXsyfSkoWzAtOUEtRl17Mn0pL2kpLm1hcChmdW5jdGlvbih2YWwpIHsKICAgIHJldHVybiBNYXRoLnJhbmdlKDAsIHBhcnNlSW50KHZhbCwgMTYpLCAyNTUpOwogIH0pLmpvaW4oIiwiKTsKICBpZiAob3BhY2l0eSA9PT0gdW5kZWZpbmVkKSB7CiAgICByZXR1cm4gInJnYigiICsgY29sb3VycyArICIpIjsKICB9CiAgcmV0dXJuICJyZ2JhKCIgKyBjb2xvdXJzICsgIiwiICsgb3BhY2l0eSArICIpIjsKfQo=</text>
+        <text encoding="base64">aW1wb3J0IHsgYXJyYXkgfSBmcm9tICdwcm9wLXR5cGVzJzsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW1wb3J0IHsgc2hhbGxvd1RvSnNvbiB9IGZyb20gJy4uLy4uL3Rlc3QtdXRpbHMvc2hhbGxvd1RvSnNvbic7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICBiYWNrZ3JvdW5kQ29sb3I6IGAjJHtsaWdodGVuQ29sb3IoCiAgICAgICAgICAgICAgICBjc3NWYXJpYWJsZXNbJy0tY29sb3ItcHJpbWFyeS01MDAnXSwKICAgICAgICAgICAgICAgIDgwLAogICAgICAgICAgICAgICl9YCwK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICBjb25zb2xlLmxvZyhsaWdodGVuQ29sb3IoY3NzVmFyaWFibGVzWyctLWNvbG9yLXByaW1hcnktNTAwJ10sIDgwKSk7Cg==</text>
+        <text encoding="base64">ZnVuY3Rpb24gcmdiYShoZXg6IHN0cmluZywgb3BhY2l0eTogbnVtYmVyKSB7CiAgdmFyIGNvbG91cnMgPSBoZXgucmVnZXgoLyM/KFswLTlBLUZdezJ9KShbMC05QS1GXXsyfSkoWzAtOUEtRl17Mn0pL2kpLm1hcChmdW5jdGlvbih2YWwpIHsKICAgIHJldHVybiBNYXRoLnJhbmdlKDAsIHBhcnNlSW50KHZhbCwgMTYpLCAyNTUpOwogIH0pLmpvaW4oIiwiKTsKICBpZiAob3BhY2l0eSA9PT0gdW5kZWZpbmVkKSB7CiAgICByZXR1cm4gInJnYigiICsgY29sb3VycyArICIpIjsKICB9CiAgcmV0dXJuICJyZ2JhKCIgKyBjb2xvdXJzICsgIiwiICsgb3BhY2l0eSArICIpIjsKfQo=</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">dmFyIGxpZ2h0ZW5Db2xvciA9IGZ1bmN0aW9uKGNvbG9yOiBzdHJpbmcsIHBlcmNlbnQ6IG51bWJlcikgewogIHZhciBudW0gPSBwYXJzZUludChjb2xvciwgMTYpLAogICAgYW10ID0gTWF0aC5yb3VuZCgyLjU1ICogcGVyY2VudCksCiAgICBSID0gKG51bSA+PiAxNikgKyBhbXQsCiAgICBCID0gKChudW0gPj4gOCkgJiAweDAwZmYpICsgYW10LAogICAgRyA9IChudW0gJiAweDAwMDBmZikgKyBhbXQ7CgogIHJldHVybiAoCiAgICAweDEwMDAwMDAgKwogICAgKFIgPCAyNTUgPyAoUiA8IDEgPyAwIDogUikgOiAyNTUpICogMHgxMDAwMCArCiAgICAoQiA8IDI1NSA/IChCIDwgMSA/IDAgOiBCKSA6IDI1NSkgKiAweDEwMCArCiAgICAoRyA8IDI1NSA/IChHIDwgMSA/IDAgOiBHKSA6IDI1NSkKICApCiAgICAudG9TdHJpbmcoMTYpCiAgICAuc2xpY2UoMSk7Cn07Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICBiYWNrZ3JvdW5kQ29sb3I6IGAjJHtsaWdodGVuQ29sb3IoCiAgICAgICAgICAgICAgICBjc3NWYXJpYWJsZXNbJy0tY29sb3ItcHJpbWFyeS01MDAnXSwKICAgICAgICAgICAgICAgIDgwLAogICAgICAgICAgICAgICl9YCwK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgaXRlbTogU3VnZ2VzdGVkQ29udGVudFdpdGhBcnJheVRhZ3M7CiAgICAgIG1hdGNoZXM6IEZ1c2VNYXRjaFtdOwo=</text>
+        <text encoding="base64">ICBjb25zb2xlLmxvZyhsaWdodGVuQ29sb3IoY3NzVmFyaWFibGVzWyctLWNvbG9yLXByaW1hcnktNTAwJ10sIDgwKSk7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKG1hdGNoZWRTdWdnZXN0ZWRDb250ZW50KTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
