@@ -15,12 +15,6 @@
         <mark key="^" line="9" column="33" />
         <mark key="." line="9" column="33" />
       </file>
-      <file name="$USER_HOME$/projects/align-web/src/components/mui/user-search.tsx" timestamp="1513006963663">
-        <mark key="[" line="31" column="11" />
-        <mark key="]" line="31" column="44" />
-        <mark key="^" line="31" column="44" />
-        <mark key="." line="31" column="44" />
-      </file>
       <file name="$USER_HOME$/projects/align-web/server.js" timestamp="1499888686809">
         <mark key="[" line="12" column="0" />
         <mark key="]" line="12" column="0" />
@@ -739,7 +733,7 @@
         <mark key="." line="23" column="29" />
         <mark key="^" line="23" column="29" />
       </file>
-      <file name="/Dummy.txt" timestamp="1513008842680">
+      <file name="/Dummy.txt" timestamp="1513027855770">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="6" />
         <mark key="." line="0" column="6" />
@@ -1294,8 +1288,10 @@
         <mark key="]" line="3" column="0" />
         <mark key="." line="3" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/align-web/test/components/schedule/schedule.test.js" timestamp="1512761715555">
-        <mark key="[" line="55" column="8" />
+      <file name="$USER_HOME$/projects/align-web/test/components/schedule/schedule.test.js" timestamp="1513028421645">
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="1" column="0" />
+        <mark key="." line="1" column="0" />
       </file>
       <file name="$USER_HOME$/projects/char-sheet/src/App.elm" timestamp="1505449191546">
         <mark key="[" line="26" column="20" />
@@ -1825,10 +1821,17 @@
         <mark key="." line="130" column="56" />
         <mark key="^" line="130" column="56" />
       </file>
-      <file name="$USER_HOME$/projects/align-web/src/components/profile/one-on-one/one-on-one.tsx" timestamp="1508874998037">
-        <mark key="[" line="70" column="0" />
-        <mark key="]" line="70" column="0" />
-        <mark key="." line="70" column="0" />
+      <file name="$USER_HOME$/projects/align-web/src/components/profile/one-on-one/one-on-one.tsx" timestamp="1513027344013">
+        <mark key="[" line="121" column="31" />
+        <mark key="]" line="92" column="59" />
+        <mark key="." line="92" column="59" />
+        <mark key="^" line="92" column="59" />
+      </file>
+      <file name="$USER_HOME$/projects/align-web/src/components/button/calendar-sync-button.tsx" timestamp="1513027301658">
+        <mark key="[" line="9" column="35" />
+        <mark key="]" line="24" column="1" />
+        <mark key="." line="24" column="1" />
+        <mark key="^" line="24" column="1" />
       </file>
       <file name="$USER_HOME$/projects/align-server/lib/firebase/agenda.js" timestamp="1500492432219">
         <mark key="[" line="246" column="10" />
@@ -2008,6 +2011,12 @@
         <mark key="]" line="41" column="0" />
         <mark key="." line="41" column="0" />
       </file>
+      <file name="$USER_HOME$/projects/align-web/src/components/button/calendar-sync-button.css" timestamp="1513027396752">
+        <mark key="[" line="1" column="2" />
+        <mark key="]" line="3" column="24" />
+        <mark key="^" line="3" column="24" />
+        <mark key="." line="3" column="24" />
+      </file>
       <file name="$USER_HOME$/projects/align-web/src/components/suggested-content/suggested-content.css" timestamp="1512662995291">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="47" column="36" />
@@ -2180,6 +2189,9 @@
         <mark key="]" line="114" column="37" />
         <mark key="." line="114" column="37" />
         <mark key="^" line="114" column="37" />
+      </file>
+      <file name="$USER_HOME$/projects/align-web/src/components/profile/one-on-one/one-on-one.css" timestamp="1513027359842">
+        <mark key="[" line="20" column="1" />
       </file>
       <file name="$USER_HOME$/projects/webpack-config-generator/index.js" timestamp="1502171769023">
         <mark key="[" line="5" column="8" />
@@ -2373,6 +2385,12 @@
         <mark key="." line="140" column="10" />
         <mark key="^" line="140" column="10" />
       </file>
+      <file name="$USER_HOME$/projects/align-web/src/components/button/index.ts" timestamp="1513026260729">
+        <mark key="[" line="6" column="29" />
+        <mark key="]" line="6" column="59" />
+        <mark key="^" line="6" column="59" />
+        <mark key="." line="6" column="59" />
+      </file>
       <file name="$USER_HOME$/projects/align-web/src/components/one-on-one/menu/previous-ooos/previous-one-on-ones.css" timestamp="1505855263384">
         <mark key="[" line="8" column="0" />
         <mark key="]" line="8" column="0" />
@@ -2476,6 +2494,12 @@
         <mark key="]" line="9" column="0" />
         <mark key="." line="9" column="0" />
       </file>
+      <file name="$USER_HOME$/projects/align-web/test/components/button/calendar-sync-button.test.js" timestamp="1513028392172">
+        <mark key="[" line="27" column="6" />
+        <mark key="]" line="27" column="10" />
+        <mark key="." line="27" column="10" />
+        <mark key="^" line="27" column="10" />
+      </file>
       <file name="$USER_HOME$/projects/align-web/src/components/admin-dashboard/cadence-report.js" timestamp="1494363237349">
         <mark key="[" line="91" column="80" />
         <mark key="]" line="91" column="88" />
@@ -2499,11 +2523,11 @@
         <mark key="]" line="0" column="45" />
         <mark key="." line="9" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/align-web/src/components/schedule/schedule.tsx" timestamp="1512762459776">
-        <mark key="[" line="67" column="28" />
-        <mark key="]" line="67" column="31" />
-        <mark key="." line="67" column="31" />
-        <mark key="^" line="67" column="31" />
+      <file name="$USER_HOME$/projects/align-web/src/components/schedule/schedule.tsx" timestamp="1513027060719">
+        <mark key="[" line="171" column="0" />
+        <mark key="]" line="171" column="0" />
+        <mark key="." line="171" column="0" />
+        <mark key="^" line="168" column="3" />
       </file>
       <file name="$USER_HOME$/projects/align-server/lib/firebase/index.js" timestamp="1495215794187">
         <mark key="[" line="2" column="0" />
@@ -2686,10 +2710,10 @@
         <mark key="]" line="26" column="0" />
         <mark key="." line="26" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/align-web/src/components/schedule/schedule.css" timestamp="1512760403477">
-        <mark key="[" line="236" column="0" />
-        <mark key="]" line="236" column="0" />
-        <mark key="." line="236" column="0" />
+      <file name="$USER_HOME$/projects/align-web/src/components/schedule/schedule.css" timestamp="1513026199728">
+        <mark key="[" line="218" column="0" />
+        <mark key="]" line="218" column="0" />
+        <mark key="." line="218" column="0" />
       </file>
       <file name="$USER_HOME$/projects/align-web/src/components/add-team-members/form-fields/index.ts" timestamp="1500498353491">
         <mark key="[" line="0" column="0" />
@@ -2988,12 +3012,6 @@
         <mark key="[" line="70" column="0" />
         <mark key="]" line="70" column="0" />
         <mark key="." line="70" column="0" />
-      </file>
-      <file name="$USER_HOME$/projects/align-web/src/utils/user.ts" timestamp="1513005547362">
-        <mark key="[" line="15" column="32" />
-        <mark key="]" line="15" column="44" />
-        <mark key="." line="15" column="44" />
-        <mark key="^" line="15" column="44" />
       </file>
       <file name="$USER_HOME$/projects/align-web/src/components/NEW_one-on-one/wrapper.css" timestamp="1503603563855">
         <mark key="[" line="37" column="1" />
@@ -3627,44 +3645,44 @@
       <jump line="0" column="0" filename="$USER_HOME$/projects/align-web/src/components/suggested-content/suggested-content-search.tsx" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>String</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">aW1wb3J0IHRvSnNvbiBmcm9tICdlbnp5bWUtdG8tanNvbic7CmltcG9ydCBtb21lbnQgZnJvbSAnbW9tZW50JzsKaW1wb3J0IHsgc2hhbGxvdyB9IGZyb20gJ2VuenltZSc7Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>String</text>
+        <text>renders</text>
       </register>
       <register name="/" type="4">
         <text>^</text>
       </register>
       <register name="0" type="4">
-        <text encoding="base64">ICAgIGluY2x1ZGVNYXRjaGVzOiB0cnVlLAogICAga2V5czogWwogICAgICB7IG5hbWU6ICd0YWdzJywgd2VpZ2h0OiAwLjQgfSwKICAgICAgeyBuYW1lOiAndGl0bGUnLCB3ZWlnaHQ6IDAuNCB9LAogICAgICB7IG5hbWU6ICd1cmwnLCB3ZWlnaHQ6IDAuMiB9LAogICAgXSwKICAgIG1pbk1hdGNoQ2hhckxlbmd0aDogMiwKICAgIHNob3VsZFNvcnQ6IHRydWUsCiAgICB0aHJlc2hvbGQ6IDAuMywKICAgIHRva2VuaXplOiB0cnVlLA==</text>
+        <text encoding="base64">ICAgIHRoaXMuc2V0U3RhdGUoKCkgPT4gKHsgbG9hZGluZ0NhbGVuZGFyU3luYzogdHJ1ZSB9KSk7CiAgICB0aGlzLnByb3BzLmFjdGlvbnMuc3luY0NhbGVuZGFyKCkudGhlbigoKSA9PgogICAgICB0aGlzLnNldFN0YXRlKCgpID0+ICh7CiAgICAgICAgbGFzdFN5bmNlZDogbW9tZW50KCksCiAgICAgICAgbG9hZGluZ0NhbGVuZGFyU3luYzogZmFsc2UsCiAgICAgIH0pKSwKICAgICk7</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICBzZWFyY2hLZXlzOiAoa2V5b2YgVClbXTsK</text>
+        <text encoding="base64">aW1wb3J0IHRvSnNvbiBmcm9tICdlbnp5bWUtdG8tanNvbic7CmltcG9ydCBtb21lbnQgZnJvbSAnbW9tZW50JzsKaW1wb3J0IHsgc2hhbGxvdyB9IGZyb20gJ2VuenltZSc7Cg==</text>
       </register>
-      <register name="2" type="4">
-        <text encoding="base64">ICBkYXRhU291cmNlQ29uZmlnPzogRGF0YVNvdXJjZUNvbmZpZzsKICBmbG9hdGluZ0xhYmVsVGV4dDogTm9kZU9yU3RyaW5nOwogIGZ1bGxXaWR0aD86IGJvb2xlYW47CiAgb25OZXdSZXF1ZXN0KGNob3NlblJlcXVlc3Q6IERhdGFTb3VyY2VDb25maWcsIGluZGV4OiBudW1iZXIpOiB2b2lkOwogIG9uVXBkYXRlSW5wdXQ/OiAoc2VhcmNoVGV4dDogc3RyaW5nLCBkYXRhU291cmNlOiBVc2VyW10pID0+IHZvaWQ7CiAgc2VhcmNoVGV4dD86IHN0cmluZzsKICB1c2VyczogVXNlcltdOw==</text>
+      <register name="2" type="2">
+        <text encoding="base64">aW1wb3J0IHRvSnNvbiBmcm9tICdlbnp5bWUtdG8tanNvbic7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">aW1wb3J0ICogYXMgUHJvcFR5cGVzIGZyb20gJ3Byb3AtdHlwZXMnOwo=</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHdyYXBwZXIuc3RhdGUoKSk7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">aW1wb3J0IHsgZ2V0IH0gZnJvbSAnbG9kYXNoJzsK</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHdyYXBwZXIuc3RhdGUoKSk7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Ly8gaW1wb3J0IEF1dG9Db21wbGV0ZSBmcm9tICdtYXRlcmlhbC11aS9BdXRvQ29tcGxldGUnOwo=</text>
+        <text encoding="base64">ICAgIGV4cGVjdCh0b0pzb24od3JhcHBlcikpLnRvTWF0Y2hTbmFwc2hvdCgpOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Ci8vIGV4cG9ydCBjb25zdCBVc2VyU2VhcmNoOiBSZWFjdC5TRkM8VXNlclNlYXJjaFByb3BzPiA9ICh7Ci8vICAgZGF0YVNvdXJjZUNvbmZpZywKLy8gICBmbG9hdGluZ0xhYmVsVGV4dCwKLy8gICBmdWxsV2lkdGggPSBmYWxzZSwKLy8gICBvbk5ld1JlcXVlc3QsCi8vICAgb25VcGRhdGVJbnB1dCwKLy8gICBzZWFyY2hUZXh0LAovLyAgIHVzZXJzLAovLyB9KSA9PiB7Ci8vICAgY29uc3QgYXV0b0NvbXBsZXRlRGF0YVNvdXJjZSA9IHVzZXJzLm1hcCh1c2VyID0+ICh7Ci8vICAgICB0ZXh0OiBgJHt1c2VyLmZpcnN0TmFtZX0gJHt1c2VyLmxhc3ROYW1lfWAsCi8vICAgICB2YWx1ZTogKAovLyAgICAgICA8TWVudUl0ZW0KLy8gICAgICAgICBrZXk9e3VzZXIuaWR9Ci8vICAgICAgICAgcHJpbWFyeVRleHQ9e2Ake3VzZXIuZmlyc3ROYW1lfSAke3VzZXIubGFzdE5hbWV9YH0KLy8gICAgICAgICBsZWZ0SWNvbj17Ci8vICAgICAgICAgICA8QXZhdGFyCi8vICAgICAgICAgICAgIGZpcnN0TmFtZT17dXNlci5maXJzdE5hbWV9Ci8vICAgICAgICAgICAgIGxhc3ROYW1lPXt1c2VyLmxhc3ROYW1lfQovLyAgICAgICAgICAgICBzcmM9e2dldCh1c2VyLCAnYXZhdGFyLnVybCcpfQovLyAgICAgICAgICAgICBzaXplPXsyNH0KLy8gICAgICAgICAgICAgc3R5bGU9e3sKLy8gICAgICAgICAgICAgICBkaXNwbGF5OiAnZmxleCcsCi8vICAgICAgICAgICAgICAgYWxpZ25JdGVtczogJ2NlbnRlcicsCi8vICAgICAgICAgICAgICAganVzdGlmeUNvbnRlbnQ6ICdjZW50ZXInLAovLyAgICAgICAgICAgICB9fQovLyAgICAgICAgICAgLz4KLy8gICAgICAgICB9Ci8vICAgICAgIC8+Ci8vICAgICApLAovLyAgIH0pKTsKLy8KLy8gICByZXR1cm4gKAovLyAgICAgPEF1dG9Db21wbGV0ZQovLyAgICAgICBkYXRhU291cmNlPXthdXRvQ29tcGxldGVEYXRhU291cmNlfQovLyAgICAgICBkYXRhU291cmNlQ29uZmlnPXtkYXRhU291cmNlQ29uZmlnfQovLyAgICAgICBmdWxsV2lkdGg9e2Z1bGxXaWR0aH0KLy8gICAgICAgZmlsdGVyPXtBdXRvQ29tcGxldGUuY2FzZUluc2Vuc2l0aXZlRmlsdGVyfQovLyAgICAgICBmbG9hdGluZ0xhYmVsVGV4dD17ZmxvYXRpbmdMYWJlbFRleHR9Ci8vICAgICAgIG9uTmV3UmVxdWVzdD17b25OZXdSZXF1ZXN0fQovLyAgICAgICBvblVwZGF0ZUlucHV0PXtvblVwZGF0ZUlucHV0fQovLyAgICAgICBzZWFyY2hUZXh0PXtzZWFyY2hUZXh0fQovLyAgICAgICBzdHlsZT17eyBtYXJnaW5Ub3A6ICctMi40cmVtJyB9fQovLyAgICAgLz4KLy8gICApOwovLyB9OwoKLy8gVXNlclNlYXJjaC5wcm9wVHlwZXMgPSB7Ci8vICAgZmxvYXRpbmdMYWJlbFRleHQ6IFByb3BUeXBlcy5zdHJpbmcuaXNSZXF1aXJlZCwKLy8gICBvbk5ld1JlcXVlc3Q6IFByb3BUeXBlcy5mdW5jLmlzUmVxdWlyZWQsCi8vICAgb25VcGRhdGVJbnB1dDogUHJvcFR5cGVzLmZ1bmMsCi8vICAgc2VhcmNoVGV4dDogUHJvcFR5cGVzLnN0cmluZywKLy8gICB1c2VyczogUHJvcFR5cGVzLmFycmF5T2YoUHJvcFR5cGVzLm9iamVjdCkuaXNSZXF1aXJlZCwKLy8gfTsK</text>
+        <text encoding="base64">aW1wb3J0IHRvSnNvbiBmcm9tICdlbnp5bWUtdG8tanNvbic7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgZm9ybSAgCg==</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHdyYXBwZXIuc3RhdGUoKSk7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBmbG9hdGluZ0xhYmVsVGV4dD17ZmxvYXRpbmdMYWJlbFRleHR9Cg==</text>
+        <text encoding="base64">ICAgIGV4cGVjdCh0b0pzb24od3JhcHBlcikpLnRvTWF0Y2hTbmFwc2hvdCgpOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgPGZvcm0+Cg==</text>
+        <text encoding="base64">RGF0ZS5ub3cgPSBqZXN0LmZuKCgpID0+IDE1MTMwMjc5NjM3NDQpOwo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
