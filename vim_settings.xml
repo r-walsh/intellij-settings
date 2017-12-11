@@ -2523,11 +2523,11 @@
         <mark key="]" line="0" column="45" />
         <mark key="." line="9" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/align-web/src/components/schedule/schedule.tsx" timestamp="1513027060719">
-        <mark key="[" line="171" column="0" />
-        <mark key="]" line="171" column="0" />
-        <mark key="." line="171" column="0" />
-        <mark key="^" line="168" column="3" />
+      <file name="$USER_HOME$/projects/align-web/src/components/schedule/schedule.tsx" timestamp="1513029040898">
+        <mark key="[" line="6" column="9" />
+        <mark key="]" line="6" column="9" />
+        <mark key="." line="6" column="9" />
+        <mark key="^" line="166" column="3" />
       </file>
       <file name="$USER_HOME$/projects/align-server/lib/firebase/index.js" timestamp="1495215794187">
         <mark key="[" line="2" column="0" />
@@ -3645,11 +3645,11 @@
       <jump line="0" column="0" filename="$USER_HOME$/projects/align-web/src/components/suggested-content/suggested-content-search.tsx" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">aW1wb3J0IHRvSnNvbiBmcm9tICdlbnp5bWUtdG8tanNvbic7CmltcG9ydCBtb21lbnQgZnJvbSAnbW9tZW50JzsKaW1wb3J0IHsgc2hhbGxvdyB9IGZyb20gJ2VuenltZSc7Cg==</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">IA==</text>
       </register>
       <register name="-" type="4">
-        <text>renders</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>^</text>
@@ -3658,31 +3658,31 @@
         <text encoding="base64">ICAgIHRoaXMuc2V0U3RhdGUoKCkgPT4gKHsgbG9hZGluZ0NhbGVuZGFyU3luYzogdHJ1ZSB9KSk7CiAgICB0aGlzLnByb3BzLmFjdGlvbnMuc3luY0NhbGVuZGFyKCkudGhlbigoKSA9PgogICAgICB0aGlzLnNldFN0YXRlKCgpID0+ICh7CiAgICAgICAgbGFzdFN5bmNlZDogbW9tZW50KCksCiAgICAgICAgbG9hZGluZ0NhbGVuZGFyU3luYzogZmFsc2UsCiAgICAgIH0pKSwKICAgICk7</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">aW1wb3J0IHRvSnNvbiBmcm9tICdlbnp5bWUtdG8tanNvbic7CmltcG9ydCBtb21lbnQgZnJvbSAnbW9tZW50JzsKaW1wb3J0IHsgc2hhbGxvdyB9IGZyb20gJ2VuenltZSc7Cg==</text>
+        <text encoding="base64">aW1wb3J0IHsgTG9hZGluZyB9IGZyb20gJ2NvbXBvbmVudHMvbG9hZGluZyc7Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">aW1wb3J0IHRvSnNvbiBmcm9tICdlbnp5bWUtdG8tanNvbic7Cg==</text>
+        <text encoding="base64">aW1wb3J0ICogYXMgbW9tZW50IGZyb20gJ21vbWVudCc7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHdyYXBwZXIuc3RhdGUoKSk7Cg==</text>
+        <text encoding="base64">aW1wb3J0IHRvSnNvbiBmcm9tICdlbnp5bWUtdG8tanNvbic7CmltcG9ydCBtb21lbnQgZnJvbSAnbW9tZW50JzsKaW1wb3J0IHsgc2hhbGxvdyB9IGZyb20gJ2VuenltZSc7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHdyYXBwZXIuc3RhdGUoKSk7Cg==</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgIGV4cGVjdCh0b0pzb24od3JhcHBlcikpLnRvTWF0Y2hTbmFwc2hvdCgpOwo=</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">aW1wb3J0IHRvSnNvbiBmcm9tICdlbnp5bWUtdG8tanNvbic7Cg==</text>
       </register>
-      <register name="7" type="2">
+      <register name="5" type="2">
         <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHdyYXBwZXIuc3RhdGUoKSk7Cg==</text>
       </register>
-      <register name="8" type="2">
+      <register name="6" type="2">
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHdyYXBwZXIuc3RhdGUoKSk7Cg==</text>
+      </register>
+      <register name="7" type="2">
         <text encoding="base64">ICAgIGV4cGVjdCh0b0pzb24od3JhcHBlcikpLnRvTWF0Y2hTbmFwc2hvdCgpOwo=</text>
       </register>
+      <register name="8" type="2">
+        <text encoding="base64">aW1wb3J0IHRvSnNvbiBmcm9tICdlbnp5bWUtdG8tanNvbic7Cg==</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">RGF0ZS5ub3cgPSBqZXN0LmZuKCgpID0+IDE1MTMwMjc5NjM3NDQpOwo=</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHdyYXBwZXIuc3RhdGUoKSk7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
