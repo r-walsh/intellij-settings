@@ -733,7 +733,7 @@
         <mark key="." line="23" column="29" />
         <mark key="^" line="23" column="29" />
       </file>
-      <file name="/Dummy.txt" timestamp="1513027855770">
+      <file name="/Dummy.txt" timestamp="1513272513750">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="6" />
         <mark key="." line="0" column="6" />
@@ -927,11 +927,10 @@
         <mark key="]" line="3" column="0" />
         <mark key="." line="3" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/align-web/src/components/profile/attachment-table.tsx" timestamp="1509380020241">
-        <mark key="[" line="59" column="39" />
-        <mark key="]" line="59" column="47" />
-        <mark key="." line="59" column="47" />
-        <mark key="^" line="59" column="47" />
+      <file name="$USER_HOME$/projects/align-web/src/components/profile/attachment-table.tsx" timestamp="1513272746857">
+        <mark key="[" line="195" column="0" />
+        <mark key="]" line="195" column="0" />
+        <mark key="." line="195" column="0" />
       </file>
       <file name="$USER_HOME$/projects/posts-graphql/package.json" timestamp="1508528219589">
         <mark key="[" line="10" column="14" />
@@ -2885,11 +2884,10 @@
         <mark key="^" line="2" column="48" />
         <mark key="." line="2" column="48" />
       </file>
-      <file name="$USER_HOME$/projects/align-web/src/actions/attachments.js" timestamp="1496415522033">
-        <mark key="[" line="6" column="0" />
-        <mark key="]" line="6" column="44" />
-        <mark key="." line="25" column="17" />
-        <mark key="^" line="25" column="17" />
+      <file name="$USER_HOME$/projects/align-web/src/actions/attachments.js" timestamp="1513272675287">
+        <mark key="[" line="125" column="0" />
+        <mark key="]" line="125" column="0" />
+        <mark key="." line="125" column="0" />
       </file>
       <file name="$USER_HOME$/projects/align-web/src/reducers/firebase.js" timestamp="1508432345430">
         <mark key="[" line="6" column="15" />
@@ -3646,7 +3644,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgb25DaGFuZ2UsCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICBvbkNsaWNrPXt9Cg==</text>
       </register>
       <register name="-" type="4">
         <text>newValue: string, matches: T[]</text>
@@ -3654,35 +3652,35 @@
       <register name="/" type="4">
         <text>^</text>
       </register>
-      <register name="0" type="4">
-        <text encoding="base64">ICBkYXRhU291cmNlOiBUW107CiAgb25DaGFuZ2U/KG5ld1ZhbHVlOiBzdHJpbmcsIG1hdGNoZXM6IFRbXSk6IGFueTsKICB2YWx1ZT86IHN0cmluZzs=</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyhlcnIpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgb25DaGFuZ2UsCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICBvbkNsaWNrPXt9Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICBvbkNoYW5nZShuZXdWYWx1ZTogc3RyaW5nLCBtYXRjaGVzOiBUW10pOiBhbnk7Cg==</text>
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyhlcnIpOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICBvbkNoYW5nZT8obmV3VmFsdWU6IHN0cmluZywgbWF0Y2hlczogVFtdKTogYW55Owo=</text>
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyhlcnIpOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBjb25zb2xlLmxvZyh7IGF0dGFjaG1lbnQsIG9vb0lkLCBkZWxldGVFdmVyeXdoZXJlIH0pOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICBvbkNoYW5nZT8obmV3VmFsdWU6IHN0cmluZywgbWF0Y2hlczogVFtdKTogYW55OwogIHZhbHVlPzogc3RyaW5nOwo=</text>
+        <text encoding="base64">ICAgICAgb25DaGFuZ2UsCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgZGF0YVNvdXJjZTogVFtdOwo=</text>
+        <text encoding="base64">ICBvbkNoYW5nZShuZXdWYWx1ZTogc3RyaW5nLCBtYXRjaGVzOiBUW10pOiBhbnk7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICBkYXRhU291cmNlOiBUW107Cg==</text>
+        <text encoding="base64">ICBvbkNoYW5nZT8obmV3VmFsdWU6IHN0cmluZywgbWF0Y2hlczogVFtdKTogYW55Owo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICBzdGF0aWMgZGVmYXVsdFByb3BzOiBQYXJ0aWFsPFNlYXJjaFByb3BzPFQ+PiA9IHsKICAgIHZhbHVlOiAnJywKICB9Owo=</text>
+        <text encoding="base64">ICBvbkNoYW5nZT8obmV3VmFsdWU6IHN0cmluZywgbWF0Y2hlczogVFtdKTogYW55OwogIHZhbHVlPzogc3RyaW5nOwo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
