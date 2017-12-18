@@ -1947,6 +1947,12 @@
         <mark key="^" line="43" column="28" />
         <mark key="." line="79" column="22" />
       </file>
+      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_4.ts" timestamp="1513628353940">
+        <mark key="[" line="16" column="28" />
+        <mark key="]" line="1" column="12" />
+        <mark key="^" line="1" column="12" />
+        <mark key="." line="1" column="12" />
+      </file>
       <file name="$USER_HOME$/projects/align-web/test/selectors/one-on-one.test.js" timestamp="1502118800907">
         <mark key="[" line="501" column="0" />
         <mark key="]" line="501" column="0" />
@@ -3650,7 +3656,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>child</text>
+        <text>Provided service account does not have permission to generate access tokens</text>
       </register>
       <register name="-" type="4">
         <text>child</text>
@@ -3658,8 +3664,8 @@
       <register name="/" type="4">
         <text>^</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyhlcnIpOwo=</text>
+      <register name="0" type="4">
+        <text>Provided service account does not have permission to generate access tokens</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgIGV2ZW50OiBSZWFjdC5Ub3VjaEV2ZW50PHt9PiwK</text>
