@@ -927,11 +927,11 @@
         <mark key="]" line="3" column="0" />
         <mark key="." line="3" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/align-web/src/components/profile/attachment-table.tsx" timestamp="1513621131306">
-        <mark key="[" line="77" column="8" />
-        <mark key="]" line="77" column="15" />
-        <mark key="." line="77" column="15" />
-        <mark key="^" line="77" column="15" />
+      <file name="$USER_HOME$/projects/align-web/src/components/profile/attachment-table.tsx" timestamp="1513622689596">
+        <mark key="[" line="177" column="51" />
+        <mark key="]" line="177" column="58" />
+        <mark key="." line="177" column="58" />
+        <mark key="^" line="177" column="58" />
       </file>
       <file name="$USER_HOME$/projects/posts-graphql/package.json" timestamp="1508528219589">
         <mark key="[" line="10" column="14" />
@@ -3662,31 +3662,31 @@
         <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyhlcnIpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coJ2ZvbycpOwo=</text>
+        <text encoding="base64">ICAgIGV2ZW50OiBSZWFjdC5Ub3VjaEV2ZW50PHt9PiwK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKGFnZW5kYSk7Cg==</text>
+        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coJ2ZvbycpOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKG1lbnVJdGVtKTsK</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKGFnZW5kYSk7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIF9ldmVudDogb2JqZWN0LAo=</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKG1lbnVJdGVtKTsK</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">ICAgIF9ldmVudDogb2JqZWN0LAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGNvbnN0IHsgcHJvcHM6IHsgdmFsdWUgfSB9ID0gbWVudUl0ZW07Cg==</text>
+        <text encoding="base64">ICAgIF9ldmVudDogb2JqZWN0LAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGNvbnNvbGUubG9nKG1lbnVJdGVtKSB8fAo=</text>
+        <text encoding="base64">ICAgIGNvbnN0IHsgcHJvcHM6IHsgdmFsdWUgfSB9ID0gbWVudUl0ZW07Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICBvbkNsaWNrPXt9Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGNvbnNvbGUubG9nKG1lbnVJdGVtKSB8fAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyhlcnIpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICBvbkNsaWNrPXt9Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
