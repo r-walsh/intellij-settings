@@ -927,10 +927,11 @@
         <mark key="]" line="3" column="0" />
         <mark key="." line="3" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/align-web/src/components/profile/attachment-table.tsx" timestamp="1513272746857">
-        <mark key="[" line="195" column="0" />
-        <mark key="]" line="195" column="0" />
-        <mark key="." line="195" column="0" />
+      <file name="$USER_HOME$/projects/align-web/src/components/profile/attachment-table.tsx" timestamp="1513621131306">
+        <mark key="[" line="77" column="8" />
+        <mark key="]" line="77" column="15" />
+        <mark key="." line="77" column="15" />
+        <mark key="^" line="77" column="15" />
       </file>
       <file name="$USER_HOME$/projects/posts-graphql/package.json" timestamp="1508528219589">
         <mark key="[" line="10" column="14" />
@@ -3648,11 +3649,11 @@
       <jump line="0" column="0" filename="$USER_HOME$/projects/align-web/src/components/suggested-content/suggested-content-search.tsx" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coJ2ZvbycpOwo=</text>
+      <register name="&quot;" type="4">
+        <text>child</text>
       </register>
       <register name="-" type="4">
-        <text>onItemTouchTap</text>
+        <text>child</text>
       </register>
       <register name="/" type="4">
         <text>^</text>
