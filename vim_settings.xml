@@ -733,7 +733,7 @@
         <mark key="." line="23" column="29" />
         <mark key="^" line="23" column="29" />
       </file>
-      <file name="/Dummy.txt" timestamp="1513272513750">
+      <file name="/Dummy.txt" timestamp="1513620141224">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="6" />
         <mark key="." line="0" column="6" />
@@ -1115,11 +1115,10 @@
         <mark key="^" line="70" column="32" />
         <mark key="." line="74" column="22" />
       </file>
-      <file name="$USER_HOME$/projects/align-web/src/actions/agenda.js" timestamp="1509391136009">
-        <mark key="[" line="19" column="22" />
-        <mark key="]" line="7" column="33" />
-        <mark key="." line="7" column="33" />
-        <mark key="^" line="7" column="24" />
+      <file name="$USER_HOME$/projects/align-web/src/actions/agenda.js" timestamp="1513619838749">
+        <mark key="[" line="25" column="0" />
+        <mark key="]" line="25" column="0" />
+        <mark key="." line="25" column="0" />
       </file>
       <file name="$USER_HOME$/projects/align-web/src/selectors/__test__/personal-notes.test.js" timestamp="1500497720687">
         <mark key="[" line="0" column="28" />
@@ -1217,6 +1216,12 @@
         <mark key="]" line="0" column="39" />
         <mark key="^" line="0" column="39" />
         <mark key="." line="0" column="39" />
+      </file>
+      <file name="$USER_HOME$/projects/align-web/src/components/agendas/agendas.tsx" timestamp="1513620146659">
+        <mark key="[" line="90" column="0" />
+        <mark key="]" line="90" column="0" />
+        <mark key="^" line="242" column="19" />
+        <mark key="." line="90" column="0" />
       </file>
       <file name="$USER_HOME$/projects/align-web/src/selectors/__test__/teams.test.js" timestamp="1500497742999">
         <mark key="[" line="0" column="28" />
@@ -3644,10 +3649,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICBvbkNsaWNrPXt9Cg==</text>
+        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coJ2ZvbycpOwo=</text>
       </register>
       <register name="-" type="4">
-        <text>newValue: string, matches: T[]</text>
+        <text>onItemTouchTap</text>
       </register>
       <register name="/" type="4">
         <text>^</text>
@@ -3656,31 +3661,31 @@
         <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyhlcnIpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICBvbkNsaWNrPXt9Cg==</text>
+        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coJ2ZvbycpOwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyhlcnIpOwo=</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKGFnZW5kYSk7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyhlcnIpOwo=</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKG1lbnVJdGVtKTsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICBjb25zb2xlLmxvZyh7IGF0dGFjaG1lbnQsIG9vb0lkLCBkZWxldGVFdmVyeXdoZXJlIH0pOwo=</text>
+        <text encoding="base64">ICAgIF9ldmVudDogb2JqZWN0LAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgb25DaGFuZ2UsCg==</text>
+        <text encoding="base64">ICAgIF9ldmVudDogb2JqZWN0LAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICBvbkNoYW5nZShuZXdWYWx1ZTogc3RyaW5nLCBtYXRjaGVzOiBUW10pOiBhbnk7Cg==</text>
+        <text encoding="base64">ICAgIGNvbnN0IHsgcHJvcHM6IHsgdmFsdWUgfSB9ID0gbWVudUl0ZW07Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICBvbkNoYW5nZT8obmV3VmFsdWU6IHN0cmluZywgbWF0Y2hlczogVFtdKTogYW55Owo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGNvbnNvbGUubG9nKG1lbnVJdGVtKSB8fAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICBvbkNsaWNrPXt9Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICBvbkNoYW5nZT8obmV3VmFsdWU6IHN0cmluZywgbWF0Y2hlczogVFtdKTogYW55OwogIHZhbHVlPzogc3RyaW5nOwo=</text>
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyhlcnIpOwo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
