@@ -1982,7 +1982,8 @@
         <mark key="^" line="2" column="35" />
         <mark key="." line="2" column="35" />
       </file>
-      <file name="$USER_HOME$/projects/align-web/src/utils/recurrence.ts" timestamp="1512401921147">
+      <file name="$USER_HOME$/projects/align-web/src/utils/recurrence.ts" timestamp="1513707338685">
+        <mark key="'" line="28" column="11" />
         <mark key="[" line="63" column="2" />
         <mark key="]" line="63" column="2" />
         <mark key="." line="63" column="2" />
@@ -3570,7 +3571,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="73" column="1" filename="$USER_HOME$/projects/align-web/src/components/modal/recurring-ooo.tsx" />
       <jump line="9" column="0" filename="$USER_HOME$/projects/align-web/src/components/modal/recurring-ooo.tsx" />
       <jump line="15" column="0" filename="$USER_HOME$/projects/align-web/src/components/modal/recurring-ooo.tsx" />
       <jump line="7" column="21" filename="$USER_HOME$/projects/align-web/test/components/add-team-members/add-team-members.test.js" />
@@ -3670,6 +3670,7 @@
       <jump line="24" column="0" filename="$USER_HOME$/projects/align-web/src/utils/filter-map.ts" />
       <jump line="374" column="0" filename="$USER_HOME$/projects/align-web/src/components/one-on-one/wrapper.tsx" />
       <jump line="0" column="0" filename="$USER_HOME$/projects/align-web/src/components/suggested-content/suggested-content-search.tsx" />
+      <jump line="28" column="11" filename="$USER_HOME$/projects/align-web/src/utils/recurrence.ts" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
