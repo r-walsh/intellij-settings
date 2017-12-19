@@ -1011,11 +1011,11 @@
         <mark key="." line="16" column="0" />
         <mark key="^" line="16" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/align-web/src/components/search/search.tsx" timestamp="1513271162821">
-        <mark key="[" line="2" column="8" />
-        <mark key="]" line="37" column="1" />
-        <mark key="." line="37" column="1" />
-        <mark key="^" line="37" column="1" />
+      <file name="$USER_HOME$/projects/align-web/src/components/search/search.tsx" timestamp="1513721282713">
+        <mark key="[" line="0" column="31" />
+        <mark key="]" line="7" column="16" />
+        <mark key="." line="7" column="16" />
+        <mark key="^" line="7" column="16" />
       </file>
       <file name="$USER_HOME$/projects/align-web/src/components/header/subject.tsx" timestamp="1512401709956">
         <mark key="[" line="97" column="6" />
@@ -2857,8 +2857,8 @@
         <mark key="^" line="0" column="30" />
         <mark key="." line="0" column="13" />
       </file>
-      <file name="$USER_HOME$/projects/align-web/src/components/form/text-field.tsx" timestamp="1513006031304">
-        <mark key="[" line="4" column="23" />
+      <file name="$USER_HOME$/projects/align-web/src/components/form/text-field.tsx" timestamp="1513721325428">
+        <mark key="[" line="6" column="0" />
         <mark key="]" line="4" column="21" />
         <mark key="." line="4" column="21" />
         <mark key="^" line="4" column="21" />
