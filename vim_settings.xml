@@ -1157,6 +1157,12 @@
         <mark key="^" line="0" column="1" />
         <mark key="." line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/projects/align-web/src/components/one-on-one/wrapper.tsx" timestamp="1513698779801">
+        <mark key="[" line="275" column="50" />
+        <mark key="]" line="276" column="4" />
+        <mark key="^" line="276" column="4" />
+        <mark key="." line="276" column="4" />
+      </file>
       <file name="$USER_HOME$/projects/align-firebase-rules/model/analytics-user-event.bolt" timestamp="1512057002268">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
@@ -3655,44 +3661,44 @@
       <jump line="0" column="0" filename="$USER_HOME$/projects/align-web/src/components/suggested-content/suggested-content-search.tsx" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>Provided service account does not have permission to generate access tokens</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAga2V5c1dpdGhEZWZhdWx0KG1lbWJlci5wZXJzb25hbFRlYW1JZHMpLAo=</text>
       </register>
       <register name="-" type="4">
-        <text>child</text>
+        <text>takeaway</text>
       </register>
       <register name="/" type="4">
         <text>^</text>
       </register>
-      <register name="0" type="4">
-        <text>Provided service account does not have permission to generate access tokens</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgdGhpcy5zZXRTdGF0ZSgoeyBvbmVPbk9uZSB9KSA9PiAoeyBvbmVPbk9uZTogey4uLm9uZU9uT25lLCBhZ2VuZGFSZXF1ZXN0OiBuZXh0UHJvcHMub25lT25PbmUuYWdlbmRhUmVxdWVzdCwgdGFrZWF3YXk6IG5leHRQcm9wcy5vbmVPbk9uZS50YWtlYXdheSB9fSkpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGV2ZW50OiBSZWFjdC5Ub3VjaEV2ZW50PHt9PiwK</text>
+        <text encoding="base64">ICAgICAga2V5c1dpdGhEZWZhdWx0KG1lbWJlci5wZXJzb25hbFRlYW1JZHMpLAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coJ2ZvbycpOwo=</text>
+        <text encoding="base64">ICAgICAga2V5c1dpdGhEZWZhdWx0KGdldChtYW5hZ2VyLCAnbWFuYWdlZFRlYW1JZHMnKSksCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKGFnZW5kYSk7Cg==</text>
+        <text encoding="base64">ICAgICAgT2JqZWN0LmtleXMoZ2V0KG1hbmFnZXIsICdtYW5hZ2VkVGVhbUlkcycsIHt9KSksCiAgICAgIE9iamVjdC5rZXlzKGdldChtZW1iZXIsICdwZXJzb25hbFRlYW1JZHMnLCB7fSkpLAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKG1lbnVJdGVtKTsK</text>
+        <text encoding="base64">ICAgIGV2ZW50OiBSZWFjdC5Ub3VjaEV2ZW50PHt9PiwK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIF9ldmVudDogb2JqZWN0LAo=</text>
+        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coJ2ZvbycpOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIF9ldmVudDogb2JqZWN0LAo=</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKGFnZW5kYSk7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGNvbnN0IHsgcHJvcHM6IHsgdmFsdWUgfSB9ID0gbWVudUl0ZW07Cg==</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKG1lbnVJdGVtKTsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGNvbnNvbGUubG9nKG1lbnVJdGVtKSB8fAo=</text>
+        <text encoding="base64">ICAgIF9ldmVudDogb2JqZWN0LAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICBvbkNsaWNrPXt9Cg==</text>
+        <text encoding="base64">ICAgIF9ldmVudDogb2JqZWN0LAo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
