@@ -1012,11 +1012,11 @@
         <mark key="." line="16" column="0" />
         <mark key="^" line="16" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/align-web/src/components/search/search.tsx" timestamp="1513805082556">
-        <mark key="[" line="77" column="69" />
-        <mark key="]" line="77" column="69" />
-        <mark key="." line="77" column="69" />
-        <mark key="^" line="77" column="69" />
+      <file name="$USER_HOME$/projects/align-web/src/components/search/search.tsx" timestamp="1513869578898">
+        <mark key="[" line="97" column="84" />
+        <mark key="]" line="97" column="73" />
+        <mark key="." line="97" column="73" />
+        <mark key="^" line="97" column="73" />
       </file>
       <file name="$USER_HOME$/projects/align-web/src/components/header/subject.tsx" timestamp="1512401709956">
         <mark key="[" line="97" column="6" />
@@ -1683,6 +1683,12 @@
         <mark key="]" line="11" column="10" />
         <mark key="." line="11" column="10" />
         <mark key="^" line="11" column="10" />
+      </file>
+      <file name="$USER_HOME$/projects/align-web/src/components/search/search.css" timestamp="1513869494089">
+        <mark key="[" line="2" column="1" />
+        <mark key="]" line="6" column="10" />
+        <mark key="^" line="6" column="10" />
+        <mark key="." line="6" column="10" />
       </file>
       <file name="$USER_HOME$/projects/align-web/test/components/profile/summary.test.js" timestamp="1504715729025">
         <mark key="[" line="4" column="21" />
@@ -3683,11 +3689,11 @@
       <jump line="28" column="11" filename="$USER_HOME$/projects/align-web/src/utils/recurrence.ts" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCdXVEZIT01JRScpOwo=</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">eyBwb3NpdGlvbjogJ3JlbGF0aXZlJyA=</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IHNob3dSZXN1bHRzOiBmYWxzZSwgcmVzdWx0czogW10g</text>
+        <text encoding="base64">eyBwb3NpdGlvbjogJ3JlbGF0aXZlJyA=</text>
       </register>
       <register name="/" type="4">
         <text>^</text>
