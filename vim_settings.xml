@@ -1012,11 +1012,11 @@
         <mark key="." line="16" column="0" />
         <mark key="^" line="16" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/align-web/src/components/search/search.tsx" timestamp="1513869578898">
-        <mark key="[" line="97" column="84" />
-        <mark key="]" line="97" column="73" />
-        <mark key="." line="97" column="73" />
-        <mark key="^" line="97" column="73" />
+      <file name="$USER_HOME$/projects/align-web/src/components/search/search.tsx" timestamp="1513869798978">
+        <mark key="[" line="97" column="22" />
+        <mark key="]" line="97" column="40" />
+        <mark key="." line="97" column="40" />
+        <mark key="^" line="97" column="40" />
       </file>
       <file name="$USER_HOME$/projects/align-web/src/components/header/subject.tsx" timestamp="1512401709956">
         <mark key="[" line="97" column="6" />
@@ -3690,10 +3690,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">eyBwb3NpdGlvbjogJ3JlbGF0aXZlJyA=</text>
+        <text>classNames(css.searchContainer, containerClassName)</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">eyBwb3NpdGlvbjogJ3JlbGF0aXZlJyA=</text>
+        <text>classNames(css.searchContainer, containerClassName)</text>
       </register>
       <register name="/" type="4">
         <text>^</text>
