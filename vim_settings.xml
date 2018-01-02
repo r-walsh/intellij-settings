@@ -3437,6 +3437,12 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/projects/align-web/test/components/modal/share-ooo.test.js" timestamp="1514928975688">
+        <mark key="[" line="35" column="34" />
+        <mark key="]" line="35" column="42" />
+        <mark key="." line="35" column="42" />
+        <mark key="^" line="35" column="42" />
+      </file>
       <file name="$USER_HOME$/projects/align-web/src/components/comments/comments.js" timestamp="1502376817417">
         <mark key="[" line="8" column="0" />
         <mark key="]" line="78" column="0" />
@@ -3724,11 +3730,11 @@
       <jump line="40" column="6" filename="$USER_HOME$/projects/align-web/src/components/mui/user-search/user-search.tsx" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgb25TZWxlY3QsCg==</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">IHZhbHVlOiB7IGtleTogJzEnIH0g</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">Y29uc29sZS5sb2coc2VhcmNoVGV4dCkgfHwg</text>
+        <text encoding="base64">IHZhbHVlOiB7IGtleTogJzEnIH0g</text>
       </register>
       <register name="/" type="4">
         <text>^</text>
