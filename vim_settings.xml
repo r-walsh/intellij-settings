@@ -38,11 +38,11 @@
         <mark key="^" line="8" column="13" />
         <mark key="." line="8" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/align-web/src/components/admin-dashboard/reports/cadence-report.tsx" timestamp="1514918309855">
-        <mark key="[" line="125" column="0" />
-        <mark key="]" line="125" column="37" />
-        <mark key="." line="125" column="0" />
-        <mark key="^" line="125" column="20" />
+      <file name="$USER_HOME$/projects/align-web/src/components/admin-dashboard/reports/cadence-report.tsx" timestamp="1514923912719">
+        <mark key="[" line="117" column="0" />
+        <mark key="]" line="117" column="0" />
+        <mark key="^" line="117" column="64" />
+        <mark key="." line="117" column="0" />
       </file>
       <file name="$USER_HOME$/projects/align-web/src/reducers/app.js" timestamp="1507580731108">
         <mark key="[" line="21" column="19" />
@@ -388,11 +388,11 @@
         <mark key="^" line="11" column="191" />
         <mark key="." line="11" column="191" />
       </file>
-      <file name="$USER_HOME$/projects/align-web/src/components/add-team-members/add-team-members.tsx" timestamp="1514917570360">
-        <mark key="[" line="113" column="0" />
-        <mark key="]" line="113" column="0" />
-        <mark key="^" line="113" column="55" />
-        <mark key="." line="113" column="0" />
+      <file name="$USER_HOME$/projects/align-web/src/components/add-team-members/add-team-members.tsx" timestamp="1514924693714">
+        <mark key="[" line="108" column="12" />
+        <mark key="]" line="108" column="21" />
+        <mark key="." line="108" column="21" />
+        <mark key="^" line="108" column="21" />
       </file>
       <file name="$USER_HOME$/projects/align-web/src/utils/extract-return.ts" timestamp="1506397027888">
         <mark key="[" line="1" column="0" />
@@ -1032,11 +1032,8 @@
         <mark key="." line="16" column="0" />
         <mark key="^" line="16" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/align-web/src/components/search/search.tsx" timestamp="1514917987244">
-        <mark key="[" line="23" column="0" />
-        <mark key="]" line="31" column="71" />
-        <mark key="." line="30" column="10" />
-        <mark key="^" line="30" column="10" />
+      <file name="$USER_HOME$/projects/align-web/src/components/search/search.tsx" timestamp="1514925952688">
+        <mark key="^" line="23" column="135" />
       </file>
       <file name="$USER_HOME$/projects/align-web/src/components/header/subject.tsx" timestamp="1512401709956">
         <mark key="[" line="97" column="6" />
@@ -1489,10 +1486,11 @@
         <mark key="]" line="106" column="4" />
         <mark key="." line="106" column="4" />
       </file>
-      <file name="$USER_HOME$/projects/align-web/src/components/modal/share-ooo/share-ooo.tsx" timestamp="1514917614295">
-        <mark key="[" line="126" column="0" />
-        <mark key="]" line="126" column="57" />
-        <mark key="." line="126" column="0" />
+      <file name="$USER_HOME$/projects/align-web/src/components/modal/share-ooo/share-ooo.tsx" timestamp="1514924441727">
+        <mark key="[" line="120" column="10" />
+        <mark key="]" line="120" column="17" />
+        <mark key="." line="120" column="17" />
+        <mark key="^" line="120" column="17" />
       </file>
       <file name="$USER_HOME$/projects/align-web/src/components/form/avatar-textarea.tsx" timestamp="1506455077210">
         <mark key="[" line="26" column="0" />
@@ -1961,10 +1959,11 @@
         <mark key="]" line="69" column="14" />
         <mark key="." line="69" column="14" />
       </file>
-      <file name="$USER_HOME$/projects/align-web/src/components/admin-dashboard/people/teams/team-list.tsx" timestamp="1509382060485">
-        <mark key="[" line="278" column="0" />
-        <mark key="]" line="278" column="0" />
-        <mark key="." line="278" column="0" />
+      <file name="$USER_HOME$/projects/align-web/src/components/admin-dashboard/people/teams/team-list.tsx" timestamp="1514924916423">
+        <mark key="[" line="298" column="48" />
+        <mark key="]" line="299" column="34" />
+        <mark key="^" line="299" column="34" />
+        <mark key="." line="299" column="34" />
       </file>
       <file name="$USER_HOME$/projects/align-web/test/components/admin-dashboard/agendas/agendas.js" timestamp="1497885255890">
         <mark key="[" line="2" column="33" />
@@ -3142,11 +3141,11 @@
         <mark key="^" line="2" column="25" />
         <mark key="." line="2" column="25" />
       </file>
-      <file name="$USER_HOME$/projects/align-web/src/components/admin-dashboard/reports/meeting-focus-report.tsx" timestamp="1514917628929">
-        <mark key="[" line="9" column="0" />
-        <mark key="]" line="9" column="55" />
-        <mark key="^" line="146" column="57" />
-        <mark key="." line="9" column="0" />
+      <file name="$USER_HOME$/projects/align-web/src/components/admin-dashboard/reports/meeting-focus-report.tsx" timestamp="1514924504447">
+        <mark key="[" line="142" column="21" />
+        <mark key="]" line="143" column="34" />
+        <mark key="^" line="143" column="34" />
+        <mark key="." line="143" column="34" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_2.ts" timestamp="1507320657989">
         <mark key="[" line="11" column="23" />
@@ -3325,13 +3324,18 @@
         <mark key="." line="74" column="30" />
         <mark key="^" line="74" column="30" />
       </file>
-      <file name="$USER_HOME$/projects/align-web/src/components/mui/user-search/user-search.tsx" timestamp="1514918160488">
-        <mark key="[" line="37" column="60" />
+      <file name="$USER_HOME$/projects/align-web/src/components/mui/user-search/user-search.tsx" timestamp="1514926104212">
+        <mark key="'" line="40" column="6" />
+        <mark key="[" line="65" column="6" />
+        <mark key="]" line="65" column="10" />
+        <mark key="." line="65" column="10" />
+        <mark key="^" line="43" column="20" />
       </file>
-      <file name="$USER_HOME$/projects/align-web/src/components/admin-dashboard/people/teams/edit-team-members.tsx" timestamp="1514917642405">
-        <mark key="[" line="32" column="0" />
-        <mark key="]" line="32" column="55" />
-        <mark key="." line="32" column="0" />
+      <file name="$USER_HOME$/projects/align-web/src/components/admin-dashboard/people/teams/edit-team-members.tsx" timestamp="1514924966008">
+        <mark key="[" line="9" column="0" />
+        <mark key="]" line="9" column="54" />
+        <mark key="." line="9" column="0" />
+        <mark key="^" line="8" column="0" />
       </file>
       <file name="$USER_HOME$/projects/align-web/src/components/one-on-one/agenda-item/agenda-item.tsx" timestamp="1496265837602">
         <mark key="[" line="68" column="9" />
@@ -3618,8 +3622,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="15" column="0" filename="$USER_HOME$/projects/align-web/src/components/modal/recurring-ooo.tsx" />
-      <jump line="7" column="21" filename="$USER_HOME$/projects/align-web/test/components/add-team-members/add-team-members.test.js" />
       <jump line="517" column="27" filename="$USER_HOME$/projects/align-web/src/components/one-on-one/wrapper.tsx" />
       <jump line="28" column="1" filename="$USER_HOME$/projects/align-web/src/components/one-on-one/menu/agenda-templates/agenda-templates.tsx" />
       <jump line="362" column="22" filename="$USER_HOME$/projects/align-web/src/components/one-on-one/wrapper.tsx" />
@@ -3718,46 +3720,48 @@
       <jump line="0" column="0" filename="$USER_HOME$/projects/align-web/src/components/suggested-content/suggested-content-search.tsx" />
       <jump line="28" column="11" filename="$USER_HOME$/projects/align-web/src/utils/recurrence.ts" />
       <jump line="35" column="17" filename="$USER_HOME$/projects/align-web/src/components/mui/user-search.tsx" />
+      <jump line="42" column="17" filename="$USER_HOME$/projects/align-web/src/components/mui/user-search/user-search.tsx" />
+      <jump line="40" column="6" filename="$USER_HOME$/projects/align-web/src/components/mui/user-search/user-search.tsx" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgIG9uTmV3UmVxdWVzdD17b25OZXdSZXF1ZXN0fQo=</text>
+        <text encoding="base64">ICAgIC8vIEEgdGltZW91dCBpcyBkb25lIGhlcmUgdG8gZ2l2ZSBSZWFjdCB0aW1lIHRvIGhhbmRsZSBzZWFyY2ggcmVzdWx0IGNsaWNrIGJlZm9yZQogICAgLy8gZGlzYXBwZWFyaW5nIHRoZSByZXN1bHRzLgogICAgLy8gc2V0VGltZW91dCgoKSA9PiB0aGlzLnNldFN0YXRlKCgpID0+ICh7IHNob3dSZXN1bHRzOiBmYWxzZSB9KSksIDEwMDApOwogICAgLy8gY29uc29sZS5sb2coT2JqZWN0LmtleXMoZSkpOwogICAgLy8gY29uc29sZS5sb2coZS50YXJnZXQpOwo=</text>
       </register>
       <register name="-" type="4">
-        <text>floatingLabelText</text>
+        <text>render</text>
       </register>
       <register name="/" type="4">
         <text>^</text>
       </register>
-      <register name="0" type="4">
-        <text encoding="base64">ICAgIG5ld1ZhbHVlOiBzdHJpbmcsCiAgICByZXN1bHRzOiB7IGl0ZW06IFQ7IG1hdGNoZXM6IHsgW2tleTogc3RyaW5nXTogUmVhY3QuUmVhY3ROb2RlIH0gfVtdLA==</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICBvblNlbGVjdCh1c2VyOiBVc2VyKTogYW55Owo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgIG9uTmV3UmVxdWVzdD17b25OZXdSZXF1ZXN0fQo=</text>
+        <text encoding="base64">ICAgIC8vIEEgdGltZW91dCBpcyBkb25lIGhlcmUgdG8gZ2l2ZSBSZWFjdCB0aW1lIHRvIGhhbmRsZSBzZWFyY2ggcmVzdWx0IGNsaWNrIGJlZm9yZQogICAgLy8gZGlzYXBwZWFyaW5nIHRoZSByZXN1bHRzLgogICAgLy8gc2V0VGltZW91dCgoKSA9PiB0aGlzLnNldFN0YXRlKCgpID0+ICh7IHNob3dSZXN1bHRzOiBmYWxzZSB9KSksIDEwMDApOwogICAgLy8gY29uc29sZS5sb2coT2JqZWN0LmtleXMoZSkpOwogICAgLy8gY29uc29sZS5sb2coZS50YXJnZXQpOwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICBvblVwZGF0ZUlucHV0PzogKAogICAgbmV3VmFsdWU6IHN0cmluZywKICAgIHJlc3VsdHM6IHsgaXRlbTogVXNlcjsgbWF0Y2hlczogeyBba2V5OiBzdHJpbmddOiBSZWFjdC5SZWFjdE5vZGUgfSB9W10sCiAgKSA9PiBSZW5kZXJlZFJlc3VsdDxVc2VyPjsK</text>
+        <text encoding="base64">ICAgICAgICBvbkNsaWNrOiAoKSA9PiBjb25zb2xlLmxvZyhpdGVtKSB8fCBvblNlbGVjdChpdGVtKSwK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">aW1wb3J0ICogYXMgUHJvcFR5cGVzIGZyb20gJ3Byb3AtdHlwZXMnOwo=</text>
+        <text encoding="base64">ICAgICAgICBvbkNsaWNrOiAoKSA9PiBjb25zb2xlLmxvZyhpdGVtKSB8fCBvblNlbGVjdChpdGVtKSwK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgcGxhY2Vob2xkZXI9e3RyYW5zbGF0ZVRvU3RyaW5nKCdlbXBsb3llZVNlYXJjaCcpfQo=</text>
+        <text encoding="base64">ICAgICAgICBvbkNsaWNrPXsoKSA9PiB7fX0K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgdXNlcnM9e3VzZXJzfQo=</text>
+        <text encoding="base64">aW1wb3J0IHsgVGVhbSwgVXNlciwgTm9kZU9yU3RyaW5nIH0gZnJvbSAnaW50ZXJmYWNlcyc7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">aW1wb3J0IHsgdHJhbnNsYXRlVG9TdHJpbmcgfSBmcm9tICd1dGlscy90cmFuc2xhdGlvbnMnOwo=</text>
+        <text encoding="base64">ICAgICAgb25OZXdSZXF1ZXN0PXtvbk5ld1JlcXVlc3R9Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgb25OZXdSZXF1ZXN0PXt0aGlzLm9uTmV3UmVxdWVzdH0K</text>
+        <text encoding="base64">ICBvbk5ld1JlcXVlc3QsCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgIHBsYWNlaG9sZGVyPXt0cmFuc2xhdGVUb1N0cmluZygncGVvcGxlU2VhcmNoJyl9Cg==</text>
+        <text encoding="base64">ICBvbk5ld1JlcXVlc3QoY2hvc2VuUmVxdWVzdDogRGF0YVNvdXJjZUNvbmZpZywgaW5kZXg6IG51bWJlcik6IHZvaWQ7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">aW1wb3J0IHsgdHJhbnNsYXRlVG9TdHJpbmcgfSBmcm9tICd1dGlscy90cmFuc2xhdGlvbnMnOwo=</text>
+        <text encoding="base64">ICBvbk5ld1JlcXVlc3QoY2hvc2VuUmVxdWVzdDogRGF0YVNvdXJjZUNvbmZpZywgaW5kZXg6IG51bWJlcik6IHZvaWQ7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
