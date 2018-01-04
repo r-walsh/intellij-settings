@@ -1838,10 +1838,11 @@
         <mark key="]" line="51" column="0" />
         <mark key="." line="51" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/align-web/src/utils/goals.ts" timestamp="1512401879848">
-        <mark key="[" line="38" column="4" />
-        <mark key="]" line="38" column="4" />
-        <mark key="." line="38" column="4" />
+      <file name="$USER_HOME$/projects/align-web/src/utils/goals.ts" timestamp="1515095732813">
+        <mark key="[" line="14" column="5" />
+        <mark key="]" line="14" column="5" />
+        <mark key="^" line="19" column="75" />
+        <mark key="." line="14" column="5" />
       </file>
       <file name="$USER_HOME$/projects/align-web/src/components/one-on-one/manager-notes/index.js" timestamp="1504049968328">
         <mark key="[" line="38" column="0" />
@@ -2911,10 +2912,11 @@
         <mark key="^" line="17" column="18" />
         <mark key="." line="17" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/align-web/src/components/goals/goal-list/goal-list-wrapper.tsx" timestamp="1515094145266">
-        <mark key="]" line="2" column="41" />
+      <file name="$USER_HOME$/projects/align-web/src/components/goals/goal-list/goal-list-wrapper.tsx" timestamp="1515095522378">
+        <mark key="[" line="119" column="0" />
+        <mark key="]" line="119" column="0" />
         <mark key="^" line="2" column="41" />
-        <mark key="." line="2" column="41" />
+        <mark key="." line="119" column="0" />
       </file>
       <file name="$USER_HOME$/projects/align-web/config/setup.js" timestamp="1494349569720">
         <mark key="[" line="11" column="22" />
@@ -3738,10 +3740,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+        <text encoding="base64">Z29hbC5zdGFydERhdGUgJiY=</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text encoding="base64">Z29hbC5zdGFydERhdGUgJiY=</text>
       </register>
       <register name="/" type="4">
         <text>^</text>
@@ -3750,31 +3752,31 @@
         <text encoding="base64">ICAgICAgICA8c3Bhbj5CYXI8L3NwYW4+Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2coc3RhdHVzLCBnb2FsU3RhdHVzKTsK</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICBzdGF0aWMgZGlzcGxheU5hbWUgPSAnc2VhcmNoJzsK</text>
+      <register name="2" type="4">
+        <text encoding="base64">ICBjb25zdCBub3cgPSBnZXROb3coKTsKICByZXR1cm4gKAogICAgZ29hbC5jb21wbGV0ZWRBdCB8fAogICAgbW9tZW50KGdvYWwuc3RhcnREYXRlKS5pc0FmdGVyKG5vdykgfHwKICAgIG1vbWVudChnb2FsLmVuZERhdGUpLmlzQmVmb3JlKG5vdykKICApOw==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Y29uc3QgVXNlclNlYXJjaENvbXBvbmVudDogSVVzZXJTZWFyY2hDb21wb25lbnQgPSBTZWFyY2g7Cg==</text>
+        <text encoding="base64">ICBpZiAoCiAgICBnb2FsLmNvbXBsZXRlZEF0IHx8CiAgICAoZ29hbC5zdGFydERhdGUgJiYgbW9tZW50KGdvYWwuc3RhcnREYXRlKS5pc0FmdGVyKG5vdykpIHx8CiAgICAoZ29hbC5lbmREYXRlICYmIG1vbWVudChnb2FsLmVuZERhdGUpLmlzQmVmb3JlKG5vdykpCiAgKSB7CiAgICByZXR1cm4gZmFsc2U7CiAgfQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">dHlwZSBJVXNlclNlYXJjaENvbXBvbmVudCA9IG5ldyAoKSA9PiBTZWFyY2g8VXNlcj47Cg==</text>
+        <text encoding="base64">ICAgIC8vICFnb2FsLnN0YXJ0RGF0ZSB8fAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">aW1wb3J0IHsgRGF0YVNvdXJjZUNvbmZpZyB9IGZyb20gJ2NvbXBvbmVudHMvbXVpJzsK</text>
+        <text encoding="base64">ICBpZiAoZ29hbC5jb21wbGV0ZWRBdCkgewogICAgcmV0dXJuIHRydWU7CiAgfQo=</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ZXhwb3J0IGludGVyZmFjZSBEYXRhU291cmNlQ29uZmlnIHsKICB0ZXh0OiBzdHJpbmc7CiAgdmFsdWU6IGFueTsKfQo=</text>
+        <text encoding="base64">ICBzdGF0aWMgZGlzcGxheU5hbWUgPSAnc2VhcmNoJzsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGV4cGVjdChvbkNoYW5nZSkudG9IYXZlQmVlbkNhbGxlZFdpdGgoKTsK</text>
+        <text encoding="base64">Y29uc3QgVXNlclNlYXJjaENvbXBvbmVudDogSVVzZXJTZWFyY2hDb21wb25lbnQgPSBTZWFyY2g7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIC8vIHdyYXBwZXIuZmluZCgnVGV4dEZpZWxkJykuc2ltdWxhdGUoJ2NoYW5nZScsIFt7fSwgJ0JhJ10pOwo=</text>
+        <text encoding="base64">dHlwZSBJVXNlclNlYXJjaENvbXBvbmVudCA9IG5ldyAoKSA9PiBTZWFyY2g8VXNlcj47Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
